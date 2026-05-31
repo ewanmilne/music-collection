@@ -1,3 +1,3 @@
-{% for artist in site.data.artists %}
-- {{ artist.ALBUMARTIST }}
+{% for artist in site.data.collection %}
+  {{ artist.ALBUMARTIST }}
 {% endfor %}
