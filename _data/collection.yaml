@@ -1134,7 +1134,7 @@
       LENGTH: 266
 - ALBUMARTIST: Abba
   Albums:
-  - ALBUM: Gold: Greatest hits
+  - ALBUM: "Gold: Greatest hits"
     DATE: 1992
     GENRE: Pop
     MEDIA: CD
