@@ -9743,8 +9743,7 @@
     DATE: 2020-10-02
     COPYRIGHT: |
       2020 Warner Music Group - X5 Music Group
-    GENRE: Alternative
-Christmas
+    GENRE: Alternative, Christmas
     MEDIA: |
       tidal.com
     Tracks:
@@ -11289,8 +11288,7 @@ Christmas
     DATE: 1988
     DESCRIPTION: |
       Ripped from vinyl (Rhythm King R BFORD 1B)
-    GENRE: Electronic
-Dance
+    GENRE: Electronic, Dance
     MEDIA: |
       vinyl
     RELEASETYPE: single
@@ -11341,8 +11339,7 @@ Dance
   - ALBUM: |
       Oochy Koochy (Fu Baby Yeh Yeh)
     DATE: 1988
-    GENRE: Electronic
-Dance
+    GENRE: Electronic, Dance
     MEDIA: |
       bandcamp.com
     PURCHASEDATE: 2025-07-31
@@ -14700,8 +14697,7 @@ Dance
     DATE: 2005
     COPYRIGHT: |
       2000 mBop Records 2000 mBOP Records
-    GENRE: Indie
-Christmas
+    GENRE: Indie, Christmas
     LABEL: |
       Blue Pie Records
     MEDIA: |
@@ -15389,8 +15385,7 @@ Christmas
     DATE: 2011
     COPYRIGHT: |
       (C) 2011 Copyright Group (P) 2011 Copyright Group
-    GENRE: Speech
-Christmas
+    GENRE: Speech, Christmas
     LABEL: |
       Portable Poetry
     MEDIA: |
@@ -42550,8 +42545,7 @@ Christmas
   - ALBUM: |
       Snow
     DATE: 1994
-    GENRE: Christmas
-Indie
+    GENRE: Christmas, Indie
     MEDIA: |
       CD
     RELEASETYPE: EP
@@ -52830,7 +52824,7 @@ Vinyl Limited
       2009 Parlophone Records Ltd, a Warner Music Group Company
     DESCRIPTION: |
       2009 Remastered VersionInterprètes : Tony Visconti, Producer
-Label : EMI - Warner
+      Label : EMI - Warner
     GENRE: Alternative
     MEDIA: |
       qobuz.com
@@ -57815,8 +57809,7 @@ Label : EMI - Warner
     DATE: 1982
     COPYRIGHT: |
       (C) 2014 Crimson Productions Ltd (P) 1982 Driven By The Music LLC issued under exclusive license to Crimson Productions Ltd
-    GENRE: Pop
-Dance
+    GENRE: Pop, Dance
     LABEL: |
       Crimson
     MEDIA: |
@@ -67837,8 +67830,7 @@ Dance
   - ALBUM: |
       Elvis' Christmas Album
     DATE: 1957
-    GENRE: Christmas
-Rock'n'Roll
+    GENRE: Christmas, Rock'n'Roll
     MEDIA: |
       CD
     Tracks:
@@ -71396,11 +71388,11 @@ Ensemble Signal
         Ezra Collective
       UNSYNCEDLYRICS: |
         I have a God who never fails, 
-I have a God who never fails, 
-I have a God who never fails, 
-Who never fails,
-Who never fails, 
-Forever more
+        I have a God who never fails, 
+        I have a God who never fails, 
+        Who never fails,
+        Who never fails, 
+        Forever more
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -6.55 dB
       REPLAYGAIN_TRACK_PEAK: 0.97760010
@@ -76315,8 +76307,7 @@ Kuti, Fela
   - ALBUM: |
       The Christmas Album
     DATE: 2004
-    GENRE: Christmas
-Jazz
+    GENRE: Christmas, Jazz
     MEDIA: |
       CD
     Tracks:
@@ -85877,8 +85868,8 @@ Gil Scott-Heron
       2010 Ghostly International / Wordless Music Under Exclusive License From William Ryan
     DESCRIPTION: |
       Label : Ghostly International - ScDistribution
-Live @ Le Poisson Rouge (feat. Dennis DeSantis)
-Bill Ryan, Producer
+      Live @ Le Poisson Rouge (feat. Dennis DeSantis)
+      Bill Ryan, Producer
     GENRE: Modern Classical
     MEDIA: |
       qobuz.com
@@ -100755,8 +100746,7 @@ bandcamp.com
   - ALBUM: |
       The Pianoman at Christmas (the complete edition)
     DATE: 2021
-    GENRE: Christmas
-Jazz
+    GENRE: Christmas, Jazz
     MEDIA: |
       CD
     Tracks:
@@ -103961,44 +103951,44 @@ Jazz
         QZ3VK2100100
       UNSYNCEDLYRICS: |
         If I should fall from grace with god
-Where no doctor can relieve me
-If I'm buried 'neath the sod
-But the angels won't receive me
-
-Let me go boys
-Let me go boys
-Let me go down in the mud
-Where the rivers all run dry
-
-This land was always ours
-Was the proud land of our fathers
-It belongs to us and them
-Not to any of the others
-
-Let them go boys
-Let them go boys
-Let them go down in the mud
-Where the rivers all run dry
-
-Bury me at sea
-Where no murdered ghost can haunt me
-If I rock upon the waves
-No corpse can lie upon me
-
-It's coming up three boys
-Keeps coming up three boys
-Let them go down in the mud
-Where the rivers all run dry
-
-If I should fall from grace with god
-Where no doctor can relieve me
-If I'm buried 'neath the sod
-And still the angels won't receive me
-
-Let me go boys
-Let me go boys
-Let me go down in the mud
-Where the rivers all run dry
+        Where no doctor can relieve me
+        If I'm buried 'neath the sod
+        But the angels won't receive me
+        
+        Let me go boys
+        Let me go boys
+        Let me go down in the mud
+        Where the rivers all run dry
+        
+        This land was always ours
+        Was the proud land of our fathers
+        It belongs to us and them
+        Not to any of the others
+        
+        Let them go boys
+        Let them go boys
+        Let them go down in the mud
+        Where the rivers all run dry
+        
+        Bury me at sea
+        Where no murdered ghost can haunt me
+        If I rock upon the waves
+        No corpse can lie upon me
+        
+        It's coming up three boys
+        Keeps coming up three boys
+        Let them go down in the mud
+        Where the rivers all run dry
+        
+        If I should fall from grace with god
+        Where no doctor can relieve me
+        If I'm buried 'neath the sod
+        And still the angels won't receive me
+        
+        Let me go boys
+        Let me go boys
+        Let me go down in the mud
+        Where the rivers all run dry
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -9.75 dB
       REPLAYGAIN_TRACK_PEAK: 0.97512817
@@ -104032,99 +104022,99 @@ Where the rivers all run dry
         USXH21600002
       UNSYNCEDLYRICS: |
         In the villa of Ormen
-in the villa of Ormen
-Stands a solitary candle
-In the centre of it all 
-in the centre of it all
-Your eyes
-​
-On the day of execution
-on the day of execution
-Only women kneel and smile
-ah-ah
-ah-ah
-At the centre of it all
-at the centre of it all
-Your eyes
-your eyes
-
-
-In the villa of Ormen
-in the villa of Ormen
-Stands a solitary candle
-at the centre of it all
-at the centre of it all
-Your eyes
-
-your eyes
-
-Something happened on the day he died
-Spirit rose a metre and stepped aside
-Somebody else took his place and bravely cried
-I’m a blackstar
-I’m a blackstar
-​
-How many times does an angel fall?
-How many people lie instead of talking tall?
-He trod on sacred ground, he cried loud-into-the-crowd
-I’m a blackstar
-I’m a blackstar
-I’m not a gangster
-​
-I can’t answer why 
-(I’m a blackstar)
-Just go with me 
-(I’m not a filmstar)
-I’m-a take you home 
-(I’m a blackstar)
-Take your passport and shoes 
-(I’m not a popstar)
-And your sedatives, boo 
-(I’m a blackstar)
-You’re a flash in the pan 
-(I’m not a marvel star)
-I’m the great I am 
-(I’m a blackstar)
-​
-I’m a blackstar, way up, oh-honey-I’ve-got-game
-I see right so white, so open-heart it’s plain
-I want eagles in my daydreams, diamonds in my eyes
-I’m a blackstar
-I’m a blackstar
-​
-Something happened on the day he died
-Spirit rose a metre and stepped aside
-Somebody else took his place, and bravely cried
-I’m a blackstar 
-I’m a star star 
-I’m a blackstar
-​
-(I)can’t answer why 
-(I’m not a gangster)
-But I can tell you how 
-(I’m not a flam star)
-We were born upside-down 
-(I’m a star star)
-Born the wrong way ‘round 
-(I’m not a white star)
-I’m a blackstar
-I’m not a gangster
-I’m a blackstar
-I’m a blackstarI’m not a pornstar, I’m not a wandering star
-I’m a blackstar
-I’m a blackstar
-​
-
-In the villa of Ormen stands a solitary candle
-At the centre of it all
-your eyes
-
-
-On the day of execution
-only women kneel and smileAt the centre of it all
-your eyes
-
-your eyes
+        in the villa of Ormen
+        Stands a solitary candle
+        In the centre of it all 
+        in the centre of it all
+        Your eyes
+        ​
+        On the day of execution
+        on the day of execution
+        Only women kneel and smile
+        ah-ah
+        ah-ah
+        At the centre of it all
+        at the centre of it all
+        Your eyes
+        your eyes
+        
+        
+        In the villa of Ormen
+        in the villa of Ormen
+        Stands a solitary candle
+        at the centre of it all
+        at the centre of it all
+        Your eyes
+        
+        your eyes
+        
+        Something happened on the day he died
+        Spirit rose a metre and stepped aside
+        Somebody else took his place and bravely cried
+        I’m a blackstar
+        I’m a blackstar
+        ​
+        How many times does an angel fall?
+        How many people lie instead of talking tall?
+        He trod on sacred ground, he cried loud-into-the-crowd
+        I’m a blackstar
+        I’m a blackstar
+        I’m not a gangster
+        ​
+        I can’t answer why 
+        (I’m a blackstar)
+        Just go with me 
+        (I’m not a filmstar)
+        I’m-a take you home 
+        (I’m a blackstar)
+        Take your passport and shoes 
+        (I’m not a popstar)
+        And your sedatives, boo 
+        (I’m a blackstar)
+        You’re a flash in the pan 
+        (I’m not a marvel star)
+        I’m the great I am 
+        (I’m a blackstar)
+        ​
+        I’m a blackstar, way up, oh-honey-I’ve-got-game
+        I see right so white, so open-heart it’s plain
+        I want eagles in my daydreams, diamonds in my eyes
+        I’m a blackstar
+        I’m a blackstar
+        ​
+        Something happened on the day he died
+        Spirit rose a metre and stepped aside
+        Somebody else took his place, and bravely cried
+        I’m a blackstar 
+        I’m a star star 
+        I’m a blackstar
+        ​
+        (I)can’t answer why 
+        (I’m not a gangster)
+        But I can tell you how 
+        (I’m not a flam star)
+        We were born upside-down 
+        (I’m a star star)
+        Born the wrong way ‘round 
+        (I’m not a white star)
+        I’m a blackstar
+        I’m not a gangster
+        I’m a blackstar
+        I’m a blackstarI’m not a pornstar, I’m not a wandering star
+        I’m a blackstar
+        I’m a blackstar
+        ​
+        
+        In the villa of Ormen stands a solitary candle
+        At the centre of it all
+        your eyes
+        
+        
+        On the day of execution
+        only women kneel and smileAt the centre of it all
+        your eyes
+        
+        your eyes
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -8.98 dB
       REPLAYGAIN_TRACK_PEAK: 0.99900091
@@ -104143,55 +104133,55 @@ your eyes
         USXH21600004
       UNSYNCEDLYRICS: |
         Ground Control to Major Tom
-Ground Control to Major Tom
-Take your protein pills 
-and put your helmet on
-
-Ground Control to Major Tom
-Commencing countdown, 
-engines on
-Check ignition 
-and may God's love be with you
-
-This is Ground Control 
-to Major Tom
-You've really made the grade
-And the papers want to know whose shirts you wear
-Now it's time to leave the capsule 
-if you dare
-
-This is Major Tom to Ground Control
-I'm stepping through the door
-And I'm floating 
-in a most peculiar way
-And the stars look very different today
-
-For here
-Am I sitting in a tin can
-Far above the world
-Planet Earth is blue
-And there's nothing I can do
-
-Though I'm past 
-one hundred thousand miles
-I'm feeling very still
-And I think my spaceship knows which way to go
-Tell my wife I love her very much 
-she knows
-
-Ground Control to Major Tom
-Your circuit's dead,
-there's something wrong
-Can you hear me, Major Tom?
-Can you hear me, Major Tom?
-Can you hear me, Major Tom?
-Can you....
-
-Here am I floating 
-round my tin can
-Far above the Moon
-Planet Earth is blue
-And there's nothing I can do.
+        Ground Control to Major Tom
+        Take your protein pills 
+        and put your helmet on
+        
+        Ground Control to Major Tom
+        Commencing countdown, 
+        engines on
+        Check ignition 
+        and may God's love be with you
+        
+        This is Ground Control 
+        to Major Tom
+        You've really made the grade
+        And the papers want to know whose shirts you wear
+        Now it's time to leave the capsule 
+        if you dare
+        
+        This is Major Tom to Ground Control
+        I'm stepping through the door
+        And I'm floating 
+        in a most peculiar way
+        And the stars look very different today
+        
+        For here
+        Am I sitting in a tin can
+        Far above the world
+        Planet Earth is blue
+        And there's nothing I can do
+        
+        Though I'm past 
+        one hundred thousand miles
+        I'm feeling very still
+        And I think my spaceship knows which way to go
+        Tell my wife I love her very much 
+        she knows
+        
+        Ground Control to Major Tom
+        Your circuit's dead,
+        there's something wrong
+        Can you hear me, Major Tom?
+        Can you hear me, Major Tom?
+        Can you hear me, Major Tom?
+        Can you....
+        
+        Here am I floating 
+        round my tin can
+        Far above the Moon
+        Planet Earth is blue
+        And there's nothing I can do.
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -10.54 dB
       REPLAYGAIN_TRACK_PEAK: 0.99900091
@@ -104210,54 +104200,54 @@ And there's nothing I can do.
         USXH21600001
       UNSYNCEDLYRICS: |
         Do you remember a guy that's been 
-In such an early song 
-I've heard a rumor from Ground Control 
-Oh no, don't say it's true 
-
-They got a message from the Action Man 
-""I'm happy, hope you're happy too 
-I've loved all I've needed to love 
-Sordid details following"" 
-
-The shrieking of nothing is killing 
-Just pictures of Jap girls in synthesis and I 
-Ain't got no money and I ain't got no hair 
-But I'm hoping to kick but the planet it's glowing 
-
-Ashes to ashes, funk to funky 
-We know Major Tom's a junkie 
-Strung out in heaven's high 
-Hitting an all-time low 
-
-Time and again I tell myself 
-I'll stay clean tonight 
-But the little green wheels are following me 
-Oh no, not again 
-I'm stuck with a valuable friend 
-""I'm happy, hope you're happy too"" 
-One flash of light but no smoking pistol 
-
-I never done good things I never done bad things 
-I never did anything out of the blue, woh-o-oh 
-Want an axe to break the ice 
-Wanna come down right now 
-
-Ashes to ashes, funk to funky 
-We know Major Tom's a junkie 
-Strung out in heaven's high 
-Hitting an all-time low
-
-My mama said to get things done 
-You'd better not mess with Major Tom
-
-My mama said to get things done 
-You'd better not mess with Major Tom
-
-My mama said to get things done 
-You'd better not mess with Major Tom
-
-My mama said to get things done 
-You'd better not mess with Major Tom
+        In such an early song 
+        I've heard a rumor from Ground Control 
+        Oh no, don't say it's true 
+        
+        They got a message from the Action Man 
+        ""I'm happy, hope you're happy too 
+        I've loved all I've needed to love 
+        Sordid details following"" 
+        
+        The shrieking of nothing is killing 
+        Just pictures of Jap girls in synthesis and I 
+        Ain't got no money and I ain't got no hair 
+        But I'm hoping to kick but the planet it's glowing 
+        
+        Ashes to ashes, funk to funky 
+        We know Major Tom's a junkie 
+        Strung out in heaven's high 
+        Hitting an all-time low 
+        
+        Time and again I tell myself 
+        I'll stay clean tonight 
+        But the little green wheels are following me 
+        Oh no, not again 
+        I'm stuck with a valuable friend 
+        ""I'm happy, hope you're happy too"" 
+        One flash of light but no smoking pistol 
+        
+        I never done good things I never done bad things 
+        I never did anything out of the blue, woh-o-oh 
+        Want an axe to break the ice 
+        Wanna come down right now 
+        
+        Ashes to ashes, funk to funky 
+        We know Major Tom's a junkie 
+        Strung out in heaven's high 
+        Hitting an all-time low
+        
+        My mama said to get things done 
+        You'd better not mess with Major Tom
+        
+        My mama said to get things done 
+        You'd better not mess with Major Tom
+        
+        My mama said to get things done 
+        You'd better not mess with Major Tom
+        
+        My mama said to get things done 
+        You'd better not mess with Major Tom
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -10.88 dB
       REPLAYGAIN_TRACK_PEAK: 0.99900091
@@ -104276,43 +104266,43 @@ You'd better not mess with Major Tom
         USXH21600003
       UNSYNCEDLYRICS: |
         I
-I wish you could swim
-Like the dolphins
-like dolphins can swim
-Though nothing
-nothing 
-will keep us together
-We can beat them
-forever and ever
-Oh, we can be heroes
-just for one day
-
-I
-I will be king
-And you
-you will be queen
-Though nothing 
-will drive them away
-We can be heroes
-just for one day
-….We can *be* us
-just for one day
-
-I
-I can remember (I remember)
-Standing, by the wall (by the wall)
-And the guns
-shot above our heads (over our heads)
-And we kissed, as though nothing could fall (nothing could fall)
-And the shame, was on the other side
-Oh, we can beat them, forever and ever
-Then we could be heroes, just for one day
-
-We can be heroes
-We can be heroes
-We can be heroes
-(Just for one day)
-We can be heroes
+        I wish you could swim
+        Like the dolphins
+        like dolphins can swim
+        Though nothing
+        nothing 
+        will keep us together
+        We can beat them
+        forever and ever
+        Oh, we can be heroes
+        just for one day
+        
+        I
+        I will be king
+        And you
+        you will be queen
+        Though nothing 
+        will drive them away
+        We can be heroes
+        just for one day
+        ….We can *be* us
+        just for one day
+        
+        I
+        I can remember (I remember)
+        Standing, by the wall (by the wall)
+        And the guns
+        shot above our heads (over our heads)
+        And we kissed, as though nothing could fall (nothing could fall)
+        And the shame, was on the other side
+        Oh, we can beat them, forever and ever
+        Then we could be heroes, just for one day
+        
+        We can be heroes
+        We can be heroes
+        We can be heroes
+        (Just for one day)
+        We can be heroes
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -10.74 dB
       REPLAYGAIN_TRACK_PEAK: 0.99900091
@@ -104331,41 +104321,41 @@ We can be heroes
         USXH21600006
       UNSYNCEDLYRICS: |
         Du
-Könntest du schwimmen
-Wie delphine
-Delphine es tun
-Niemand gibt uns eine chance
-Doch wir können siegen
-Für immer und immer
-Und wir sind dann helden
-Für einen tag
-
-Ich
-Ich bin dann könig
-Und du
-Du königin
-Obwohl sie
-Unschlagbar scheinen
-Werden wir helden
-Fur einen tag
-Wir sind dann wir
-An diesem tag
-
-IchIch glaubbte zu traeumen (zu träumen)
-Die mauer
-Im rücken war kalt (so kalt)
-Schüsse reissen die luft (reissen die luft)
-Doch wir kuessen
-Als ob nichts geschieht (nichts geschieht)
-Und die scham fiel auf ihre seite
-O, wir können sie schlagen
-Fuer alle zeiten
-Dann sind wir helden
-Nur diesen tag
-Dann sind wir helden
-Dann sind wir helden
-Dann sind wir helden
-Nur diesen tag….
+        Könntest du schwimmen
+        Wie delphine
+        Delphine es tun
+        Niemand gibt uns eine chance
+        Doch wir können siegen
+        Für immer und immer
+        Und wir sind dann helden
+        Für einen tag
+        
+        Ich
+        Ich bin dann könig
+        Und du
+        Du königin
+        Obwohl sie
+        Unschlagbar scheinen
+        Werden wir helden
+        Fur einen tag
+        Wir sind dann wir
+        An diesem tag
+        
+        IchIch glaubbte zu traeumen (zu träumen)
+        Die mauer
+        Im rücken war kalt (so kalt)
+        Schüsse reissen die luft (reissen die luft)
+        Doch wir kuessen
+        Als ob nichts geschieht (nichts geschieht)
+        Und die scham fiel auf ihre seite
+        O, wir können sie schlagen
+        Fuer alle zeiten
+        Dann sind wir helden
+        Nur diesen tag
+        Dann sind wir helden
+        Dann sind wir helden
+        Dann sind wir helden
+        Nur diesen tag….
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -10.69 dB
       REPLAYGAIN_TRACK_PEAK: 0.99900091
@@ -117753,6 +117743,194 @@ Nur diesen tag….
       LENGTH: 150
 
   - ALBUM: |
+      Lionheart
+    DATE: 1978-11-10
+    GENRE: Pop
+    MEDIA: |
+      CD
+    Tracks:
+    - TITLE: |
+        Symphony in Blue
+      TRACKNUMBER: 1
+      ARTIST: |
+        Kate Bush
+      COMPOSER: |
+        Kate Bush
+      ENCODER: |
+        X Lossless Decoder 20250302
+      ISRC: |
+        GBAYE1800829
+      REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
+      REPLAYGAIN_TRACK_GAIN: -4.44 dB
+      REPLAYGAIN_TRACK_PEAK: 1.00000000
+      REPLAYGAIN_ALBUM_GAIN: -5.12 dB
+      REPLAYGAIN_ALBUM_PEAK: 1.00000000
+      BITDEPTH: 16
+      LENGTH: 216
+    - TITLE: |
+        In Search of Peter Pan
+      TRACKNUMBER: 2
+      ARTIST: |
+        Kate Bush
+      COMPOSER: |
+        Kate Bush
+      ENCODER: |
+        X Lossless Decoder 20250302
+      ISRC: |
+        GBAYE1800830
+      REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
+      REPLAYGAIN_TRACK_GAIN: -3.36 dB
+      REPLAYGAIN_TRACK_PEAK: 1.00000000
+      REPLAYGAIN_ALBUM_GAIN: -5.12 dB
+      REPLAYGAIN_ALBUM_PEAK: 1.00000000
+      BITDEPTH: 16
+      LENGTH: 226
+    - TITLE: |
+        Wow
+      TRACKNUMBER: 3
+      ARTIST: |
+        Kate Bush
+      COMPOSER: |
+        Kate Bush
+      ENCODER: |
+        X Lossless Decoder 20250302
+      ISRC: |
+        GBAYE1800831
+      REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
+      REPLAYGAIN_TRACK_GAIN: -4.60 dB
+      REPLAYGAIN_TRACK_PEAK: 1.00000000
+      REPLAYGAIN_ALBUM_GAIN: -5.12 dB
+      REPLAYGAIN_ALBUM_PEAK: 1.00000000
+      BITDEPTH: 16
+      LENGTH: 240
+    - TITLE: |
+        Don't Push Your Foot on the Heartbrake
+      TRACKNUMBER: 4
+      ARTIST: |
+        Kate Bush
+      COMPOSER: |
+        Kate Bush
+      ENCODER: |
+        X Lossless Decoder 20250302
+      ISRC: |
+        GBAYE1800832
+      REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
+      REPLAYGAIN_TRACK_GAIN: -6.61 dB
+      REPLAYGAIN_TRACK_PEAK: 1.00000000
+      REPLAYGAIN_ALBUM_GAIN: -5.12 dB
+      REPLAYGAIN_ALBUM_PEAK: 1.00000000
+      BITDEPTH: 16
+      LENGTH: 195
+    - TITLE: |
+        Oh England My Lionheart
+      TRACKNUMBER: 5
+      ARTIST: |
+        Kate Bush
+      COMPOSER: |
+        Kate Bush
+      ENCODER: |
+        X Lossless Decoder 20250302
+      ISRC: |
+        GBAYE1800833
+      REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
+      REPLAYGAIN_TRACK_GAIN: -2.25 dB
+      REPLAYGAIN_TRACK_PEAK: 0.63070679
+      REPLAYGAIN_ALBUM_GAIN: -5.12 dB
+      REPLAYGAIN_ALBUM_PEAK: 1.00000000
+      BITDEPTH: 16
+      LENGTH: 192
+    - TITLE: |
+        Fullhouse
+      TRACKNUMBER: 6
+      ARTIST: |
+        Kate Bush
+      COMPOSER: |
+        Kate Bush
+      ENCODER: |
+        X Lossless Decoder 20250302
+      ISRC: |
+        GBAYE1800834
+      REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
+      REPLAYGAIN_TRACK_GAIN: -6.17 dB
+      REPLAYGAIN_TRACK_PEAK: 1.00000000
+      REPLAYGAIN_ALBUM_GAIN: -5.12 dB
+      REPLAYGAIN_ALBUM_PEAK: 1.00000000
+      BITDEPTH: 16
+      LENGTH: 194
+    - TITLE: |
+        In the Warm Room
+      TRACKNUMBER: 7
+      ARTIST: |
+        Kate Bush
+      COMPOSER: |
+        Kate Bush
+      ENCODER: |
+        X Lossless Decoder 20250302
+      ISRC: |
+        GBAYE1800835
+      REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
+      REPLAYGAIN_TRACK_GAIN: -2.49 dB
+      REPLAYGAIN_TRACK_PEAK: 0.75521851
+      REPLAYGAIN_ALBUM_GAIN: -5.12 dB
+      REPLAYGAIN_ALBUM_PEAK: 1.00000000
+      BITDEPTH: 16
+      LENGTH: 215
+    - TITLE: |
+        Kashka From Baghdad
+      TRACKNUMBER: 8
+      ARTIST: |
+        Kate Bush
+      COMPOSER: |
+        Kate Bush
+      ENCODER: |
+        X Lossless Decoder 20250302
+      ISRC: |
+        GBAYE1800836
+      REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
+      REPLAYGAIN_TRACK_GAIN: -3.24 dB
+      REPLAYGAIN_TRACK_PEAK: 1.00000000
+      REPLAYGAIN_ALBUM_GAIN: -5.12 dB
+      REPLAYGAIN_ALBUM_PEAK: 1.00000000
+      BITDEPTH: 16
+      LENGTH: 236
+    - TITLE: |
+        Coffee Homeground
+      TRACKNUMBER: 9
+      ARTIST: |
+        Kate Bush
+      COMPOSER: |
+        Kate Bush
+      ENCODER: |
+        X Lossless Decoder 20250302
+      ISRC: |
+        GBAYE1800837
+      REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
+      REPLAYGAIN_TRACK_GAIN: -6.16 dB
+      REPLAYGAIN_TRACK_PEAK: 1.00000000
+      REPLAYGAIN_ALBUM_GAIN: -5.12 dB
+      REPLAYGAIN_ALBUM_PEAK: 1.00000000
+      BITDEPTH: 16
+      LENGTH: 219
+    - TITLE: |
+        Hammer Horror
+      TRACKNUMBER: 10
+      ARTIST: |
+        Kate Bush
+      COMPOSER: |
+        Kate Bush
+      ENCODER: |
+        X Lossless Decoder 20250302
+      ISRC: |
+        GBAYE1800838
+      REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
+      REPLAYGAIN_TRACK_GAIN: -5.08 dB
+      REPLAYGAIN_TRACK_PEAK: 1.00000000
+      REPLAYGAIN_ALBUM_GAIN: -5.12 dB
+      REPLAYGAIN_ALBUM_PEAK: 1.00000000
+      BITDEPTH: 16
+      LENGTH: 279
+
+  - ALBUM: |
       Never for Ever
     DATE: 1980
     MEDIA: |
@@ -118942,8 +119120,7 @@ Nur diesen tag….
   - ALBUM: |
       Angels and Men
     DATE: 2022
-    GENRE: Folk
-Christmas
+    GENRE: Folk, Christmas
     MEDIA: |
       bandcamp.com
     PURCHASEDATE: 2024-10-04
@@ -118959,33 +119136,33 @@ Christmas
         GBBYC1701367
       UNSYNCEDLYRICS: |
         Deck The Halls
-Trad arr Rusby/O’Kane
-
-Deck the halls with boughs of holly
-Fa la la la la la la la la
-'Tis the season to be jolly
-Fa La La….
-Don we now our gay apparel
-Fa….
-Troll the ancient yuletide carol
-Fa….
-
-See the blazing yule before us
-Strike the harp and join the chorus
-Follow me in merry measure
-While I tell of yuletide treasure
-
-Fast away the old year passes
-Hail the new both lads and lasses
-Sing we joyous all together
-Heedless of the wind and weather
-
-Deck the halls with boughs of holly
-'Tis the season to be jolly
-Don we now our gay apparel
-Troll the ancient yuletide carol
-Fa la la la la la la la la
-Fa la la la la la la la la
+        Trad arr Rusby/O’Kane
+        
+        Deck the halls with boughs of holly
+        Fa la la la la la la la la
+        'Tis the season to be jolly
+        Fa La La….
+        Don we now our gay apparel
+        Fa….
+        Troll the ancient yuletide carol
+        Fa….
+        
+        See the blazing yule before us
+        Strike the harp and join the chorus
+        Follow me in merry measure
+        While I tell of yuletide treasure
+        
+        Fast away the old year passes
+        Hail the new both lads and lasses
+        Sing we joyous all together
+        Heedless of the wind and weather
+        
+        Deck the halls with boughs of holly
+        'Tis the season to be jolly
+        Don we now our gay apparel
+        Troll the ancient yuletide carol
+        Fa la la la la la la la la
+        Fa la la la la la la la la
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -8.21 dB
       REPLAYGAIN_TRACK_PEAK: 0.98855305
@@ -140876,28 +141053,28 @@ Fa la la la la la la la la
         Stephenson, Martin and the Daintees
       UNSYNCEDLYRICS: |
         There comes a time
-
-There comes a time, hen nerves they have enough
-There comes a time, when this life should be mine
-They scratch and tear, at every part of me
-I shall resign, there comes a time
-
-Place both these hands, in pure loneliness
-Im not afraid for it's all that I have known
-To be and fly, toward safe insane
-I have my reign, there comes a time
-
-There comes a time, when no more leaves can fall
-We must walk forth to meet the fatal night
-We must be there, we shall be there
-We're walking now, there comes a time
-
-The tears are gone, the pain is over now
-Leave this here carcus to which the way he'd like
-My soul is mine, not torn to shreds
-I have my reign, there ones a time
-
-Written 1985: Martin George Stephenson
+        
+        There comes a time, hen nerves they have enough
+        There comes a time, when this life should be mine
+        They scratch and tear, at every part of me
+        I shall resign, there comes a time
+        
+        Place both these hands, in pure loneliness
+        Im not afraid for it's all that I have known
+        To be and fly, toward safe insane
+        I have my reign, there comes a time
+        
+        There comes a time, when no more leaves can fall
+        We must walk forth to meet the fatal night
+        We must be there, we shall be there
+        We're walking now, there comes a time
+        
+        The tears are gone, the pain is over now
+        Leave this here carcus to which the way he'd like
+        My soul is mine, not torn to shreds
+        I have my reign, there ones a time
+        
+        Written 1985: Martin George Stephenson
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -6.64 dB
       REPLAYGAIN_TRACK_PEAK: 0.98852539
@@ -140914,39 +141091,39 @@ Written 1985: Martin George Stephenson
         Stephenson, Martin and the Daintees
       UNSYNCEDLYRICS: |
         Slaughterman
-
-I know which way you're going, but I ain't travelling your way
-And I do know boots are made for walking, but to me they're tools of the trade
-Now I won't have you push me around because Im heading for the top
-And no would-be Ian St Johns are gonna bring me down
-Im so sick of college games, packing cornflakes everyday
-So open the lid and put your brains back in the jar
-
-Slaughterman slaughterman, cut their heads off while you can
-Slaughterman slaughterman, cut their heads off while you can
-
-Now I don't need any lectures, about your working way and wife
-Sitting cooped inside your factory, you couldn't think to save your life
-Now I won't have you interfere as Im aiming for my goal
-Like some hot dog seller sitting in a stand
-You've a nerve to criticize while you sit inside your cage
-Loke some Turkey paying homage to the slaughter man
-
-Slaughterman slaughterman, cut their heads off while you can
-Slaughterman slaughterman, cut their heads off while you can
-
-So now you now which way Im going, have a little tact and understand
-And you know those boots that were made for walking
-Could put you on the right path!
-Now I won't have you push me around because Im heading for the top
-And no would-be Ian St Johns are gonna bring me down
-Im so sick of college games, packing cornflakes everyday
-So open the lid and put your brains back in the jar
-
-Slaughterman slaughterman, cut their heads off while you can
-Slaughterman slaughterman, cut their heads off while you can
-
-Written by Martin George Stephenson 1983
+        
+        I know which way you're going, but I ain't travelling your way
+        And I do know boots are made for walking, but to me they're tools of the trade
+        Now I won't have you push me around because Im heading for the top
+        And no would-be Ian St Johns are gonna bring me down
+        Im so sick of college games, packing cornflakes everyday
+        So open the lid and put your brains back in the jar
+        
+        Slaughterman slaughterman, cut their heads off while you can
+        Slaughterman slaughterman, cut their heads off while you can
+        
+        Now I don't need any lectures, about your working way and wife
+        Sitting cooped inside your factory, you couldn't think to save your life
+        Now I won't have you interfere as Im aiming for my goal
+        Like some hot dog seller sitting in a stand
+        You've a nerve to criticize while you sit inside your cage
+        Loke some Turkey paying homage to the slaughter man
+        
+        Slaughterman slaughterman, cut their heads off while you can
+        Slaughterman slaughterman, cut their heads off while you can
+        
+        So now you now which way Im going, have a little tact and understand
+        And you know those boots that were made for walking
+        Could put you on the right path!
+        Now I won't have you push me around because Im heading for the top
+        And no would-be Ian St Johns are gonna bring me down
+        Im so sick of college games, packing cornflakes everyday
+        So open the lid and put your brains back in the jar
+        
+        Slaughterman slaughterman, cut their heads off while you can
+        Slaughterman slaughterman, cut their heads off while you can
+        
+        Written by Martin George Stephenson 1983
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -5.73 dB
       REPLAYGAIN_TRACK_PEAK: 0.98852539
@@ -140963,21 +141140,21 @@ Written by Martin George Stephenson 1983
         Stephenson, Martin and the Daintees
       UNSYNCEDLYRICS: |
         The Wait
-
-You ask me to wait for you then happily close the door
-My head comes down as numb as hell 
-Like a child which waits to be born
-
-The wait is a catherine wheel of ever depending remorse
-The wait is the power you have that's kept me hanging so long
-
-I greet you with a scolding face that shields but doesn't hide what you know
-I fear of your laugh within and of sharing the joke outside
-The wait is the choice you have of wether I glow or dim
-The wait is your safety valve with me at your every whim
-
-The wait is a catherine wheel of ever depending remorse
-The wait is the power you have that's what the darkness is for
+        
+        You ask me to wait for you then happily close the door
+        My head comes down as numb as hell 
+        Like a child which waits to be born
+        
+        The wait is a catherine wheel of ever depending remorse
+        The wait is the power you have that's kept me hanging so long
+        
+        I greet you with a scolding face that shields but doesn't hide what you know
+        I fear of your laugh within and of sharing the joke outside
+        The wait is the choice you have of wether I glow or dim
+        The wait is your safety valve with me at your every whim
+        
+        The wait is a catherine wheel of ever depending remorse
+        The wait is the power you have that's what the darkness is for
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -7.17 dB
       REPLAYGAIN_TRACK_PEAK: 0.98849487
@@ -140994,25 +141171,25 @@ The wait is the power you have that's what the darkness is for
         Stephenson, Martin and the Daintees
       UNSYNCEDLYRICS: |
         I can see
-
-I can see, my eyes are opening now
-I can see that you can't, bend a broken mind
-If only to feel the way the sun might feel
-As he shines, over house or not, house or not
-
-I shall cut the strings that bind me here
-And get up off my behind
-I shall rid this dark pool of misery
-And add up the pros and cons, pros and cons
-
-I can see clear, the moonlight man who carries me  trust
-My gut says, move on take up this here road
-I will face, stand against the fears of change
-
-To feel the way a child might feel
-To free the shattered mind
-To push ahead to higher things
-And let the daylight in
+        
+        I can see, my eyes are opening now
+        I can see that you can't, bend a broken mind
+        If only to feel the way the sun might feel
+        As he shines, over house or not, house or not
+        
+        I shall cut the strings that bind me here
+        And get up off my behind
+        I shall rid this dark pool of misery
+        And add up the pros and cons, pros and cons
+        
+        I can see clear, the moonlight man who carries me  trust
+        My gut says, move on take up this here road
+        I will face, stand against the fears of change
+        
+        To feel the way a child might feel
+        To free the shattered mind
+        To push ahead to higher things
+        And let the daylight in
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -5.30 dB
       REPLAYGAIN_TRACK_PEAK: 0.98852539
@@ -141029,22 +141206,22 @@ And let the daylight in
         Stephenson, Martin and the Daintees
       UNSYNCEDLYRICS: |
         The old church is still standing
-
-Brethren come and brethren go 
-But that old church will stand while the surrounding houses fall
-He caters for the business man, the homeless child any prostitute and all, within it's walls
-Inside they all hold hands, and love dances freely around the room
-Yes the old church he's much wiser than any mountain
-And the only way to Heaven's through his door
-
-Priests are born and priests do die
-But the old church he employs them for their long and useful lives
-To welcome in any vagabond, the pensioner who as a child chalked his name, upon it's wall
-And the organ and voices ring with lust, and the magic within their minds is all set free
-And the head that bounced three times to form a fountain
-Smiles on them the calm forgiving
-Yes the old church he's much wiser than any mountain
-And the only way to Heaven's through his door
+        
+        Brethren come and brethren go 
+        But that old church will stand while the surrounding houses fall
+        He caters for the business man, the homeless child any prostitute and all, within it's walls
+        Inside they all hold hands, and love dances freely around the room
+        Yes the old church he's much wiser than any mountain
+        And the only way to Heaven's through his door
+        
+        Priests are born and priests do die
+        But the old church he employs them for their long and useful lives
+        To welcome in any vagabond, the pensioner who as a child chalked his name, upon it's wall
+        And the organ and voices ring with lust, and the magic within their minds is all set free
+        And the head that bounced three times to form a fountain
+        Smiles on them the calm forgiving
+        Yes the old church he's much wiser than any mountain
+        And the only way to Heaven's through his door
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -5.31 dB
       REPLAYGAIN_TRACK_PEAK: 0.98849487
@@ -141061,32 +141238,32 @@ And the only way to Heaven's through his door
         Stephenson, Martin and the Daintees
       UNSYNCEDLYRICS: |
         Even the night
-
-Even the night has turned its back
-As forth he walks, winds push him back
-Good looking man of melancholy stature
-Whom sobs the corner of this inn
-With a soaken coat from passing car
-Raises his glass for merry old England
-
-He cries this ones for misfortune and sorrow
-And this one's for wife and children
-Even the night has turned its back on me
-Even the night has turned its back
-
-Its New years eve, hailstones come down
-The crying man him thirty one
-Long gone are days of sun and warm companion
-Oh lonely man your coat is torn
-Your back is arched and eyes look far
-Cry into your beer, think of nothing but the river
-
-This one's for misfortune and sorrow
-And this one's for wife and children
-Even the night has turned its back on me
-Even the night has turned its back
-
-Written by Martin George Stephenson:  1986
+        
+        Even the night has turned its back
+        As forth he walks, winds push him back
+        Good looking man of melancholy stature
+        Whom sobs the corner of this inn
+        With a soaken coat from passing car
+        Raises his glass for merry old England
+        
+        He cries this ones for misfortune and sorrow
+        And this one's for wife and children
+        Even the night has turned its back on me
+        Even the night has turned its back
+        
+        Its New years eve, hailstones come down
+        The crying man him thirty one
+        Long gone are days of sun and warm companion
+        Oh lonely man your coat is torn
+        Your back is arched and eyes look far
+        Cry into your beer, think of nothing but the river
+        
+        This one's for misfortune and sorrow
+        And this one's for wife and children
+        Even the night has turned its back on me
+        Even the night has turned its back
+        
+        Written by Martin George Stephenson:  1986
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -7.30 dB
       REPLAYGAIN_TRACK_PEAK: 0.98852539
@@ -141103,27 +141280,27 @@ Written by Martin George Stephenson:  1986
         Stephenson, Martin and the Daintees
       UNSYNCEDLYRICS: |
         Wholly humble heart
-
-Every man must have his castle, and feel a hand caress his nape
-yes everybody needs a good friend, to give their secrets to
-I too am no exception, I too need to be loved
-And I too desire a good friend, hopefully that is you
-
-There is not time to kiss a statue, someone who purely looks the part
-One who transcends onto another
-Wholly humble heart
-Wholly humble heart
-
-I share a friend who is a gay boy, she tells me he is full of love
-Let Malcolm too be no exception, I wish him someone to love
-For it takes awhile to re-kindle, no matter how many you manage to fool
-For the first bite makes the deepest teeth marks
-Those wounds take a pretty long time to heal
-
-There is not time to kiss a statue, someone who purely looks the part
-One who transcends onto another
-Wholly humble heart
-Wholly humble heart
+        
+        Every man must have his castle, and feel a hand caress his nape
+        yes everybody needs a good friend, to give their secrets to
+        I too am no exception, I too need to be loved
+        And I too desire a good friend, hopefully that is you
+        
+        There is not time to kiss a statue, someone who purely looks the part
+        One who transcends onto another
+        Wholly humble heart
+        Wholly humble heart
+        
+        I share a friend who is a gay boy, she tells me he is full of love
+        Let Malcolm too be no exception, I wish him someone to love
+        For it takes awhile to re-kindle, no matter how many you manage to fool
+        For the first bite makes the deepest teeth marks
+        Those wounds take a pretty long time to heal
+        
+        There is not time to kiss a statue, someone who purely looks the part
+        One who transcends onto another
+        Wholly humble heart
+        Wholly humble heart
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: +1.83 dB
       REPLAYGAIN_TRACK_PEAK: 0.90707397
@@ -141140,44 +141317,44 @@ Wholly humble heart
         Stephenson, Martin and the Daintees
       UNSYNCEDLYRICS: |
         Me & Mathew
-
-(In the greenhouse, my grandfather and me)
-
-Sing little bird sing sing
-Sing little bird sing sing
-Sing little bird I love you
-Let the soul ooze from your bill
-
-Fill up both my lungs with oxygen
-Fill both my lungs with oxygen
-So I can breathe in a new day
-Fill both my lungs with oxygen
-
-Share with me your honey buzzing Bee
-Share me your honey buzzing Bee
-Share me your honey don't you sting me
-At least until another year (buzzing buzzing Bee)
-
-Tell me your tale old man
-The tale of long long ago
-Of all the beauty you have witnessed
-Tell me that tale before you go
-
-Speak of your life old man
-Speak of your life grandfather Mathew
-Unfold your magic, sweet clasped leather palm
-For there lies your Baccie old man
-
-And pray make us merry barley wine
-Pray make us merry barley wine
-Pray make us merry allow us to sing
-Sing, sing sing sing
-
-In the sum me of seventy three
-In the greenhouse, my grandfather and me
-
-MS:  'What does it smell of Dave?'
-Gipsy Dave:   'Smells of summer Martin!'
+        
+        (In the greenhouse, my grandfather and me)
+        
+        Sing little bird sing sing
+        Sing little bird sing sing
+        Sing little bird I love you
+        Let the soul ooze from your bill
+        
+        Fill up both my lungs with oxygen
+        Fill both my lungs with oxygen
+        So I can breathe in a new day
+        Fill both my lungs with oxygen
+        
+        Share with me your honey buzzing Bee
+        Share me your honey buzzing Bee
+        Share me your honey don't you sting me
+        At least until another year (buzzing buzzing Bee)
+        
+        Tell me your tale old man
+        The tale of long long ago
+        Of all the beauty you have witnessed
+        Tell me that tale before you go
+        
+        Speak of your life old man
+        Speak of your life grandfather Mathew
+        Unfold your magic, sweet clasped leather palm
+        For there lies your Baccie old man
+        
+        And pray make us merry barley wine
+        Pray make us merry barley wine
+        Pray make us merry allow us to sing
+        Sing, sing sing sing
+        
+        In the sum me of seventy three
+        In the greenhouse, my grandfather and me
+        
+        MS:  'What does it smell of Dave?'
+        Gipsy Dave:   'Smells of summer Martin!'
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -4.42 dB
       REPLAYGAIN_TRACK_PEAK: 0.98852539
@@ -141194,25 +141371,25 @@ Gipsy Dave:   'Smells of summer Martin!'
         Stephenson, Martin and the Daintees
       UNSYNCEDLYRICS: |
         Nancy
-
-Nancy, I thought that you meant it
-I have wasted my hope, Lord I wish I'd never been born
-The truth is I am utterly choked, debauched and lost, and vexed as a cat
-
-How can you act so numb, blinkered and huffed
-And as cold as the mire
-Nancy, I thought that you meant it
-I have wasted my hope, Lord I wish I'd never been born
-
-I have raised you since you were a little girl
-Now you leave me lost, breathless and grey
-And granted, I'll give you up
-Lifeless and chopped, and cold as the mire
-
-Nancy, how can you love, when you spit in my face
-My wayfaring child
-Nancy, I thought that you meant it
-I have wasted my hope, Lord I wish I'd never been born
+        
+        Nancy, I thought that you meant it
+        I have wasted my hope, Lord I wish I'd never been born
+        The truth is I am utterly choked, debauched and lost, and vexed as a cat
+        
+        How can you act so numb, blinkered and huffed
+        And as cold as the mire
+        Nancy, I thought that you meant it
+        I have wasted my hope, Lord I wish I'd never been born
+        
+        I have raised you since you were a little girl
+        Now you leave me lost, breathless and grey
+        And granted, I'll give you up
+        Lifeless and chopped, and cold as the mire
+        
+        Nancy, how can you love, when you spit in my face
+        My wayfaring child
+        Nancy, I thought that you meant it
+        I have wasted my hope, Lord I wish I'd never been born
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -5.21 dB
       REPLAYGAIN_TRACK_PEAK: 0.98852539
@@ -141229,30 +141406,30 @@ I have wasted my hope, Lord I wish I'd never been born
         Stephenson, Martin and the Daintees
       UNSYNCEDLYRICS: |
         Goodbye John
-
-July, it was a fruitless month
-Chibed molested and at the end of it a birthday
-Thespian narration can only give half
-And a rotten egg with spit on it the other
-In an atmosphere of salt the human clock shook to the endowing of nature
-The splitting up of two towns
-Everything is chaotic and all that is real takes a back seat
-That picture tells a lie, just as a song can hide a whim
-New pressure is added, inane facts come to the fore
-And the mid distorts
-
-Goodbye John, I hope your there to meet me when Im gone
-My old son the grass is black we both reap the same yawn
-
-From the cabbage patch boy to the thud of a street car as it moves with the wan of the morning
-The pedantic light shift sends waves of fear over this solitary stone
-An inflection has taken place, a recital of thought
-An effortless sketch of a childlike view of what appears to be true, untrue
-I hear singing again
-An erection starts and then the dawn once again
-
-Goodbye John, I hope your there to meet me when Im gone
-My old son the grass is black we both reap the same yawn
+        
+        July, it was a fruitless month
+        Chibed molested and at the end of it a birthday
+        Thespian narration can only give half
+        And a rotten egg with spit on it the other
+        In an atmosphere of salt the human clock shook to the endowing of nature
+        The splitting up of two towns
+        Everything is chaotic and all that is real takes a back seat
+        That picture tells a lie, just as a song can hide a whim
+        New pressure is added, inane facts come to the fore
+        And the mid distorts
+        
+        Goodbye John, I hope your there to meet me when Im gone
+        My old son the grass is black we both reap the same yawn
+        
+        From the cabbage patch boy to the thud of a street car as it moves with the wan of the morning
+        The pedantic light shift sends waves of fear over this solitary stone
+        An inflection has taken place, a recital of thought
+        An effortless sketch of a childlike view of what appears to be true, untrue
+        I hear singing again
+        An erection starts and then the dawn once again
+        
+        Goodbye John, I hope your there to meet me when Im gone
+        My old son the grass is black we both reap the same yawn
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -3.69 dB
       REPLAYGAIN_TRACK_PEAK: 0.98852539
@@ -141269,35 +141446,35 @@ My old son the grass is black we both reap the same yawn
         Stephenson, Martin and the Daintees
       UNSYNCEDLYRICS: |
         I Pray
-
-I belong common, that conclusion came
-After two years of kicking and fifteen years lame
-Strangled in a trench coat, on a hot summers day, I pray
-
-Bring on the mongrel, the fool with the hat
-Send your stones and your postcards, and your dancing twins books
-I'll just keep doing what I always did, put the fish in the sack, I pray
-
-I pray, so dark so long
-I pray, so dark so long
-I pray!
-
-Him with his ego and me with these hooks
-Should get together sometime and Rock this town
-Joke to joke, back to back, we meet
-Some hectic circus this is, hectic grave
-Let difference be difference, I swear these hours are but a waste of time
-And amid the hectic circus, and the hectic grave
-Bring on yesterday, not today
-
-I pray, so dark so long
-I pray, so dark so long
-I pray!
-
-And the wind blows everything
-That includes mood, name
-Pathetic pop stars with shades
-Give it blues man!
+        
+        I belong common, that conclusion came
+        After two years of kicking and fifteen years lame
+        Strangled in a trench coat, on a hot summers day, I pray
+        
+        Bring on the mongrel, the fool with the hat
+        Send your stones and your postcards, and your dancing twins books
+        I'll just keep doing what I always did, put the fish in the sack, I pray
+        
+        I pray, so dark so long
+        I pray, so dark so long
+        I pray!
+        
+        Him with his ego and me with these hooks
+        Should get together sometime and Rock this town
+        Joke to joke, back to back, we meet
+        Some hectic circus this is, hectic grave
+        Let difference be difference, I swear these hours are but a waste of time
+        And amid the hectic circus, and the hectic grave
+        Bring on yesterday, not today
+        
+        I pray, so dark so long
+        I pray, so dark so long
+        I pray!
+        
+        And the wind blows everything
+        That includes mood, name
+        Pathetic pop stars with shades
+        Give it blues man!
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -5.49 dB
       REPLAYGAIN_TRACK_PEAK: 0.98849487
@@ -163551,46 +163728,46 @@ Astatke, Mulatu
         CACWV2094618
       UNSYNCEDLYRICS: |
         [Chorus]
-Did you Cry for me?
-Because I cried for you
-And now my head hurts
-But my heart feels much worse
-
-[Verse]
-Please let me 
-Dream of you
-It's all I have
-It's all I wanna do
-It's in my dreams you never run away
-And you tell me you are here to stay
-
-[Chorus]
-Did you Cry for me?
-Because I cried for you
-And now my head hurts
-But my heart feels much worse
-Did you Cry for me?
-Because I cried for you
-And now my head hurts
-But my heart feels much worse
-
-[Verse]
-I'm on my knees
-Begging please
-Light a candle and pray for me
-Because I want for you to want me
-And I only have one wish not three
-I wish you needed me
-
-[Chorus]
-Did you Cry for me?
-Because I cried for you
-And now my head hurts
-But my heart feels much worse
-Did you Cry for me?
-Because I cried for you
-And now my head hurts
-But my heart feels much worse
+        Did you Cry for me?
+        Because I cried for you
+        And now my head hurts
+        But my heart feels much worse
+        
+        [Verse]
+        Please let me 
+        Dream of you
+        It's all I have
+        It's all I wanna do
+        It's in my dreams you never run away
+        And you tell me you are here to stay
+        
+        [Chorus]
+        Did you Cry for me?
+        Because I cried for you
+        And now my head hurts
+        But my heart feels much worse
+        Did you Cry for me?
+        Because I cried for you
+        And now my head hurts
+        But my heart feels much worse
+        
+        [Verse]
+        I'm on my knees
+        Begging please
+        Light a candle and pray for me
+        Because I want for you to want me
+        And I only have one wish not three
+        I wish you needed me
+        
+        [Chorus]
+        Did you Cry for me?
+        Because I cried for you
+        And now my head hurts
+        But my heart feels much worse
+        Did you Cry for me?
+        Because I cried for you
+        And now my head hurts
+        But my heart feels much worse
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -7.02 dB
       REPLAYGAIN_TRACK_PEAK: 0.96606445
@@ -163617,43 +163794,43 @@ But my heart feels much worse
         CALVP2067882
       UNSYNCEDLYRICS: |
         [Verse]
-Never ending days
-Living in a constant haze
-I wish you could stay here with me
-I guess I liked you to a certain degree
-And I know I should feel bad
-But this situation is just making me sad
-You were a risk I couldn't take
-Now this is giving me a headache
-
-[Chorus]
-How is it that I'm thinking about you now
-There's a time and a place
-This isn't it
-I'm in the wrong head space
-How is it that I'm thinking about you now
-There's a time and a place
-This isn't it
-I'm in the wrong head space
-
-[Verse]
-Mostly sleepless nights
-But I can't even turn out the lights
-I don't want to fall asleep
-Don't want to have another secret to keep
-Like that I dreamt of you again
-How am I supposed to pretend
-That I'm not what I seem
-I just wish I didn't dream
-[Chorus]
-How is it that I'm thinking about you now
-There's a time and a place
-This isn't it
-I'm in the wrong head space
-How is it that I'm thinking about you now
-There's a time and a place
-This isn't it
-I'm in the wrong head space
+        Never ending days
+        Living in a constant haze
+        I wish you could stay here with me
+        I guess I liked you to a certain degree
+        And I know I should feel bad
+        But this situation is just making me sad
+        You were a risk I couldn't take
+        Now this is giving me a headache
+        
+        [Chorus]
+        How is it that I'm thinking about you now
+        There's a time and a place
+        This isn't it
+        I'm in the wrong head space
+        How is it that I'm thinking about you now
+        There's a time and a place
+        This isn't it
+        I'm in the wrong head space
+        
+        [Verse]
+        Mostly sleepless nights
+        But I can't even turn out the lights
+        I don't want to fall asleep
+        Don't want to have another secret to keep
+        Like that I dreamt of you again
+        How am I supposed to pretend
+        That I'm not what I seem
+        I just wish I didn't dream
+        [Chorus]
+        How is it that I'm thinking about you now
+        There's a time and a place
+        This isn't it
+        I'm in the wrong head space
+        How is it that I'm thinking about you now
+        There's a time and a place
+        This isn't it
+        I'm in the wrong head space
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -5.83 dB
       REPLAYGAIN_TRACK_PEAK: 0.96606445
@@ -163680,47 +163857,47 @@ I'm in the wrong head space
         CALVP2091931
       UNSYNCEDLYRICS: |
         [Verse]
-One more drink
-Knock it back
-Do you want to swim or sink?
-I want to drown
-I want to drown it out
-The noise, the people
-I don't care about
-
-[Chorus]
-Now I feel fucked
-I feel fucked
-I feel fucked
-I feel fucked
-
-[Verse]
-It's easy now
-To tell you how I feel
-I'll scream it out
-Won't somebody stop me now
-Stop these words
-From coming out my mouth
-
-[Chorus]
-Now I feel fucked
-I feel fucked
-I feel fucked
-I feel fucked
-[Verse]
-One more drink
-Knock it back
-Do you want to swim or sink?
-I want to drown
-I want to drown it out
-The noise, the people
-I don't care about
-
-[Chorus]
-Now I feel fucked
-I feel fucked
-I feel fucked
-I feel fucked
+        One more drink
+        Knock it back
+        Do you want to swim or sink?
+        I want to drown
+        I want to drown it out
+        The noise, the people
+        I don't care about
+        
+        [Chorus]
+        Now I feel fucked
+        I feel fucked
+        I feel fucked
+        I feel fucked
+        
+        [Verse]
+        It's easy now
+        To tell you how I feel
+        I'll scream it out
+        Won't somebody stop me now
+        Stop these words
+        From coming out my mouth
+        
+        [Chorus]
+        Now I feel fucked
+        I feel fucked
+        I feel fucked
+        I feel fucked
+        [Verse]
+        One more drink
+        Knock it back
+        Do you want to swim or sink?
+        I want to drown
+        I want to drown it out
+        The noise, the people
+        I don't care about
+        
+        [Chorus]
+        Now I feel fucked
+        I feel fucked
+        I feel fucked
+        I feel fucked
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -6.38 dB
       REPLAYGAIN_TRACK_PEAK: 0.93325806
@@ -212818,8 +212995,7 @@ I feel fucked
     DATE: 1982
     COPYRIGHT: |
       ℗ 1982 Polydor Ltd. (UK)
-    GENRE: Post-punk
-Christmas
+    GENRE: Post-punk, Christmas
     LABEL: |
       UMC (Universal Music Catalogue)
     RELEASETYPE: single
@@ -215961,38 +216137,38 @@ Christmas
         GBCKB2513401
       UNSYNCEDLYRICS: |
         Turn down the gas and try to ration
-Do the maths and cut back fashion
-There’s no cheaper funeral than direct cremation
-A ham of truth from the men of Kent
-
-But how we gonna pay the rent? 
-How we gonna pay the rent?
-
-Soft RIP funk was playing
-In the over-priced grocery store
-This band exists to sell beverage
-While the venue tries to make a dent
-Turn down the gas 
-Turn down the gas 
-Turn down the gas 
-Turn down the gas 
-
-How we gonna pay the rent? 
-How we gonna pay the rent? 
-How we gonna pay the rent? 
-How we gonna pay the rent?
-
-He wore a cap that says make life boring
-Had to go out for dismal foraging
-As deliveries seem grotesque
-Now it’s time to erect that tent 
-Now it’s time to erect that tent 
-Now it’s time to erect that tent 
-
-How we gonna pay the rent? 
-How we gonna pay the rent? 
-How we gonna pay the rent? 
-How we gonna pay the rent?
+        Do the maths and cut back fashion
+        There’s no cheaper funeral than direct cremation
+        A ham of truth from the men of Kent
+        
+        But how we gonna pay the rent? 
+        How we gonna pay the rent?
+        
+        Soft RIP funk was playing
+        In the over-priced grocery store
+        This band exists to sell beverage
+        While the venue tries to make a dent
+        Turn down the gas 
+        Turn down the gas 
+        Turn down the gas 
+        Turn down the gas 
+        
+        How we gonna pay the rent? 
+        How we gonna pay the rent? 
+        How we gonna pay the rent? 
+        How we gonna pay the rent?
+        
+        He wore a cap that says make life boring
+        Had to go out for dismal foraging
+        As deliveries seem grotesque
+        Now it’s time to erect that tent 
+        Now it’s time to erect that tent 
+        Now it’s time to erect that tent 
+        
+        How we gonna pay the rent? 
+        How we gonna pay the rent? 
+        How we gonna pay the rent? 
+        How we gonna pay the rent?
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -8.39 dB
       REPLAYGAIN_TRACK_PEAK: 0.96605563
@@ -216009,40 +216185,40 @@ How we gonna pay the rent?
         GBCKB2513402
       UNSYNCEDLYRICS: |
         The corporations that don’t…
-
-I wanna wanna wanna talk about personal responsibilities
-How they never never never apply to very large companies
-Corporations that don’t care about you and me
-Or for all the others in your family
-
-I’m gonna sing sing sing about personal responsibilities
-We are free to tattoo ourselves tribally
-And eat eat eat eat eat unhealthily
-A corporation’s rights are the same as you and me
-
-Personal responsibilities
-They don’t apply to very large companies 
-
-So when the dust settles you will finally see
-Those red flags flying on the surfing sea
-Could guide us from our dusty knees
-
-Personal responsibilities
-Don’t apply to very large companies
-Who are obligingly negligent whilst super wealthy
-Of personhood and unaccountability
-
-Personal responsibilities
-They don’t apply to very large companies 
-
-The corporations that sail the global seas
-In vessels bigger than large countries
-Lead us to impending calamity
-Whilst they encourage us to
-Eat eat eat eat eat eat unhealthily
-And kill animals unnaturally
-We need the lifeguards for these stormy seas
-To save us from this destiny
+        
+        I wanna wanna wanna talk about personal responsibilities
+        How they never never never apply to very large companies
+        Corporations that don’t care about you and me
+        Or for all the others in your family
+        
+        I’m gonna sing sing sing about personal responsibilities
+        We are free to tattoo ourselves tribally
+        And eat eat eat eat eat unhealthily
+        A corporation’s rights are the same as you and me
+        
+        Personal responsibilities
+        They don’t apply to very large companies 
+        
+        So when the dust settles you will finally see
+        Those red flags flying on the surfing sea
+        Could guide us from our dusty knees
+        
+        Personal responsibilities
+        Don’t apply to very large companies
+        Who are obligingly negligent whilst super wealthy
+        Of personhood and unaccountability
+        
+        Personal responsibilities
+        They don’t apply to very large companies 
+        
+        The corporations that sail the global seas
+        In vessels bigger than large countries
+        Lead us to impending calamity
+        Whilst they encourage us to
+        Eat eat eat eat eat eat unhealthily
+        And kill animals unnaturally
+        We need the lifeguards for these stormy seas
+        To save us from this destiny
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -8.66 dB
       REPLAYGAIN_TRACK_PEAK: 0.96605492
@@ -216059,56 +216235,56 @@ To save us from this destiny
         GBCKB2513403
       UNSYNCEDLYRICS: |
         They laughed 
-As they straightened out time 
-Discussing politic
-Waiting for nobody 
-They gathered 
-Half naked on the beach
-Blind selfish
-For Don Quixote’s cry…
-
-RAOULLLLLLL!!!!!!!!
-RAOULLLLLLL!!!!!!!!
-Raoul as in ghoul
-Ti chiamo
-
-Salt-blinded
-With no intention to hurt
-To a folly of giants with monobrows
-Everybody looked the other way
-The chorus to the sky
-With Don Quixote’s cry 
-All the dogs in the neighbourhood howled...
-
-RAOULLLLLLL!!!!!!!!
-RAOULLLLLLL!!!!!!!!
-Ti chiamo Raoul
-
-It reminds me of Galás’ older brother
-The one who spent his entire childhood 
-Shackled to a radiator 
-Everybody looked the other way
-Everybody looked the other way
-
-And lulled back into deep slumber 
-We cried it
-Ti chiamo
-Loudly in denial 
-All the dogs in the neighbourhood started to howl…
-
-RAOULLLLLLL!!!!!!!! 
-(Look the other way)
-RAOULLLLLLL!!!!!!!! 
-(Look the other way)
-RAOULLLLLLL!!!!!!!! 
-(Look the other way)
-RAOULLLLLLL!!!!!!!! 
-(Look the other way)
-RAOULLLLLLL!!!!!!!!
-
-The situation
-We’re reviewing
-The situation
+        As they straightened out time 
+        Discussing politic
+        Waiting for nobody 
+        They gathered 
+        Half naked on the beach
+        Blind selfish
+        For Don Quixote’s cry…
+        
+        RAOULLLLLLL!!!!!!!!
+        RAOULLLLLLL!!!!!!!!
+        Raoul as in ghoul
+        Ti chiamo
+        
+        Salt-blinded
+        With no intention to hurt
+        To a folly of giants with monobrows
+        Everybody looked the other way
+        The chorus to the sky
+        With Don Quixote’s cry 
+        All the dogs in the neighbourhood howled...
+        
+        RAOULLLLLLL!!!!!!!!
+        RAOULLLLLLL!!!!!!!!
+        Ti chiamo Raoul
+        
+        It reminds me of Galás’ older brother
+        The one who spent his entire childhood 
+        Shackled to a radiator 
+        Everybody looked the other way
+        Everybody looked the other way
+        
+        And lulled back into deep slumber 
+        We cried it
+        Ti chiamo
+        Loudly in denial 
+        All the dogs in the neighbourhood started to howl…
+        
+        RAOULLLLLLL!!!!!!!! 
+        (Look the other way)
+        RAOULLLLLLL!!!!!!!! 
+        (Look the other way)
+        RAOULLLLLLL!!!!!!!! 
+        (Look the other way)
+        RAOULLLLLLL!!!!!!!! 
+        (Look the other way)
+        RAOULLLLLLL!!!!!!!!
+        
+        The situation
+        We’re reviewing
+        The situation
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -8.52 dB
       REPLAYGAIN_TRACK_PEAK: 0.96605384
@@ -216125,32 +216301,32 @@ The situation
         GBCKB2513404
       UNSYNCEDLYRICS: |
         Who’s gonna start this dance?
-On a ferry or terminal romance
-Who’s gonna start this dance?
-Lead a bolero in the baggage lounge
-Who’s gonna start this dance?
-A procession of the possessed to the lost and found
-Find a corner to hide in the dark
-Or a rave in the overflow car park
-
-Who’s gonna break the ice?
-Shall we join hands on the carousel?
-Let’s categorise to survive
-Listen out for the transitional bell
-
-We’ll join hands at the midnight bar 
-With the Freeport band
-Hell is other tourists 
-
-Dancing in Transit
-Dancing in Transit
-Dancing in Transit
-Dancing in Transit
-
-Let’s start counting the steps
-Right up to the immigration desk
-Let’s make a conga through the canteen
-Before the shelves are cleaned
+        On a ferry or terminal romance
+        Who’s gonna start this dance?
+        Lead a bolero in the baggage lounge
+        Who’s gonna start this dance?
+        A procession of the possessed to the lost and found
+        Find a corner to hide in the dark
+        Or a rave in the overflow car park
+        
+        Who’s gonna break the ice?
+        Shall we join hands on the carousel?
+        Let’s categorise to survive
+        Listen out for the transitional bell
+        
+        We’ll join hands at the midnight bar 
+        With the Freeport band
+        Hell is other tourists 
+        
+        Dancing in Transit
+        Dancing in Transit
+        Dancing in Transit
+        Dancing in Transit
+        
+        Let’s start counting the steps
+        Right up to the immigration desk
+        Let’s make a conga through the canteen
+        Before the shelves are cleaned
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -8.07 dB
       REPLAYGAIN_TRACK_PEAK: 0.96605384
@@ -216167,43 +216343,43 @@ Before the shelves are cleaned
         GBCKB2513405
       UNSYNCEDLYRICS: |
         Picture the scene
-Sweet and serene
-A nativity that just needs bitterness
-Acrid and vile
-Putrid obscene
-Where’s the caganer?
-
-See the caganer there in the corner
-See the spoiler there in the corner
-
-Acrid and vile
-Putrid obscene
-Where’s the caganer?
-The spoiler 
-The spoiler
-The spoiler
-There in the corner
-The spoiler
-
-When we see three kings in their limousines
-Sans culottes in their limousines
-
-Where’s the caganer 
-Where’s the soiler?
-Where’s the caganer?
-Where’s the spoiler?
-
-Acrid and vile
-Putrid obscene
-Where’s the spoiler?
-The spoiler 
-The spoiler
-There in the corner
-
-Where’s the caganer?
-Where’s the caganer?
-Where’s the caganer? 
-Are you the caganer?
+        Sweet and serene
+        A nativity that just needs bitterness
+        Acrid and vile
+        Putrid obscene
+        Where’s the caganer?
+        
+        See the caganer there in the corner
+        See the spoiler there in the corner
+        
+        Acrid and vile
+        Putrid obscene
+        Where’s the caganer?
+        The spoiler 
+        The spoiler
+        The spoiler
+        There in the corner
+        The spoiler
+        
+        When we see three kings in their limousines
+        Sans culottes in their limousines
+        
+        Where’s the caganer 
+        Where’s the soiler?
+        Where’s the caganer?
+        Where’s the spoiler?
+        
+        Acrid and vile
+        Putrid obscene
+        Where’s the spoiler?
+        The spoiler 
+        The spoiler
+        There in the corner
+        
+        Where’s the caganer?
+        Where’s the caganer?
+        Where’s the caganer? 
+        Are you the caganer?
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -9.45 dB
       REPLAYGAIN_TRACK_PEAK: 0.96605384
@@ -216220,49 +216396,49 @@ Are you the caganer?
         GBCKB2513406
       UNSYNCEDLYRICS: |
         “Do you feel like a ride into the forest?” 
-Conny asked Brian
-
-“Maybe I’m externalising but I think the word I’d use unheimlich.
-The dread of new mechanicals connecting and uniting, I can sense it!
-But there’s a spirit rendezvous, down into the valley of uncanny
-Perhaps the singularity will be as bad as we can imagine”
-Said Conny
-
-Does it feel 
-Strange and creepy? 
-Weird and eerie?
-
-“The rapture for technology is where I really wanna be!“ said Brian
-“The amphetamine that keeps me fresh and relevant I really really need it”
-“But can’t you see it’s us that changing first of all,” said Conny
-“Everyone one I meet is getting lazier in the head almost daily”
-
-Does it feel 
-Strange and creepy? 
-Weird and eerie?
-
-Smart world let me be
-It’s not that smart as I can see
-Smart world gets me down
-What happened to humanity?
-
-Does it feel 
-Strange and creepy? 
-Weird and eerie?
-Strange and creepy?  
-Weird and eerie? 
-Strange and creepy? 
-Weird and eerie?
-
-Smart world let me be
-It’s not that smart as I can see
-Smart world gets me down
-What happened to humanity?
-
-Smart world let me be
-It’s not that smart as I can see
-Smart world gets you down
-We need another strategy
+        Conny asked Brian
+        
+        “Maybe I’m externalising but I think the word I’d use unheimlich.
+        The dread of new mechanicals connecting and uniting, I can sense it!
+        But there’s a spirit rendezvous, down into the valley of uncanny
+        Perhaps the singularity will be as bad as we can imagine”
+        Said Conny
+        
+        Does it feel 
+        Strange and creepy? 
+        Weird and eerie?
+        
+        “The rapture for technology is where I really wanna be!“ said Brian
+        “The amphetamine that keeps me fresh and relevant I really really need it”
+        “But can’t you see it’s us that changing first of all,” said Conny
+        “Everyone one I meet is getting lazier in the head almost daily”
+        
+        Does it feel 
+        Strange and creepy? 
+        Weird and eerie?
+        
+        Smart world let me be
+        It’s not that smart as I can see
+        Smart world gets me down
+        What happened to humanity?
+        
+        Does it feel 
+        Strange and creepy? 
+        Weird and eerie?
+        Strange and creepy?  
+        Weird and eerie? 
+        Strange and creepy? 
+        Weird and eerie?
+        
+        Smart world let me be
+        It’s not that smart as I can see
+        Smart world gets me down
+        What happened to humanity?
+        
+        Smart world let me be
+        It’s not that smart as I can see
+        Smart world gets you down
+        We need another strategy
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -8.89 dB
       REPLAYGAIN_TRACK_PEAK: 0.96605420
@@ -216293,24 +216469,24 @@ We need another strategy
         GBCKB2513408
       UNSYNCEDLYRICS: |
         Dear diary 
-Day 438
-
-Some gratitude for those who on your feet
-Gonna lay right down and collapse
-Imagine you didn’t need to compete
-Would we would rot in a minute in timelapse?
-In timelapse
-In timelapse
-
-Is it now that we admit defeat?
-To lay down bai lan, quietly quit
-Masturbate with your laptop by your feet
-Like Diogenes the Cynic
-In timelapse
-In timelapse
-
-In timelapse
-In timelapse
+        Day 438
+        
+        Some gratitude for those who on your feet
+        Gonna lay right down and collapse
+        Imagine you didn’t need to compete
+        Would we would rot in a minute in timelapse?
+        In timelapse
+        In timelapse
+        
+        Is it now that we admit defeat?
+        To lay down bai lan, quietly quit
+        Masturbate with your laptop by your feet
+        Like Diogenes the Cynic
+        In timelapse
+        In timelapse
+        
+        In timelapse
+        In timelapse
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -8.37 dB
       REPLAYGAIN_TRACK_PEAK: 0.96605551
@@ -216327,41 +216503,41 @@ In timelapse
         GBCKB2513409
       UNSYNCEDLYRICS: |
         Save up, prepare
-Pack what you can
-Escape, break out
-For another winter’s plan
-
-We landed in an empty town
-We landed in an empty town
-We were observed
-Closely observed
-We were observed
-Closely observed
-
-Pick up the baton
-Meet where we can
-The glamorous resistance
-As we join the partisans
-
-We landed in an empty town
-We landed in an empty town
-We were observed
-Closely observed
-We were observed
-Closely observed
-
-As we climb the sign
-To perform our first and last stand
-It’s now a crime
-Of our time that’s restricting our hands
-
-We landed in an empty town
-We landed in an empty town
-
-In an empty town, in an empty town
-Observing
-In an empty town, in an empty town
-Observing
+        Pack what you can
+        Escape, break out
+        For another winter’s plan
+        
+        We landed in an empty town
+        We landed in an empty town
+        We were observed
+        Closely observed
+        We were observed
+        Closely observed
+        
+        Pick up the baton
+        Meet where we can
+        The glamorous resistance
+        As we join the partisans
+        
+        We landed in an empty town
+        We landed in an empty town
+        We were observed
+        Closely observed
+        We were observed
+        Closely observed
+        
+        As we climb the sign
+        To perform our first and last stand
+        It’s now a crime
+        Of our time that’s restricting our hands
+        
+        We landed in an empty town
+        We landed in an empty town
+        
+        In an empty town, in an empty town
+        Observing
+        In an empty town, in an empty town
+        Observing
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -8.26 dB
       REPLAYGAIN_TRACK_PEAK: 0.96605182
@@ -221104,8 +221280,7 @@ Observing
     DATE: 2019
     COPYRIGHT: |
       © Hyperion Records Ltd, London
-    GENRE: Classical
-Christmas
+    GENRE: Classical, Christmas
     MEDIA: |
       hyperion-records.co.uk
     PURCHASEDATE: 2023-01-31
@@ -221151,22 +221326,22 @@ Christmas
         USA2P2401574
       UNSYNCEDLYRICS: |
         empty cup and a can full of marigolds
-half burned candle a picture pinned on the wall
-letters records and ash on linoleum
-signs of life the beginning the beginning our beginning begin again
-
-I was bare and your word was still warm in my hand
-I was bare wanted all under heaven allowed
-
-snubbed out smoke in a pack from the nowhere inn
-water glass with the smudge of a lipstick stain
-box of nails, olive branch, and the holy ghost
-leave the rest but come back for the marigolds
-
-I was bare and your word was still warm in my hand
-I was bare wanted all under heaven allowed
-
-give it all away you give it all away cause the whole world’s watching you
+        half burned candle a picture pinned on the wall
+        letters records and ash on linoleum
+        signs of life the beginning the beginning our beginning begin again
+        
+        I was bare and your word was still warm in my hand
+        I was bare wanted all under heaven allowed
+        
+        snubbed out smoke in a pack from the nowhere inn
+        water glass with the smudge of a lipstick stain
+        box of nails, olive branch, and the holy ghost
+        leave the rest but come back for the marigolds
+        
+        I was bare and your word was still warm in my hand
+        I was bare wanted all under heaven allowed
+        
+        give it all away you give it all away cause the whole world’s watching you
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -8.65 dB
       REPLAYGAIN_TRACK_PEAK: 0.97763956
@@ -221183,22 +221358,22 @@ give it all away you give it all away cause the whole world’s watching you
         USA2P2401575
       UNSYNCEDLYRICS: |
         I watched you all night till the dawn had come and the angels came down and picked you up
-breathless
-the smell of your hair on the curtains babe the wind blew the windows out in the rain
-reckless reckless
-and every part of you is in me now there’s no going back I breathe you out
-breathless breathless breathless
-london sun the air like a shot hey ma i’m cracking cracking up
-reckless reckless reckless
-and i’ve been mourning you since the day I met you
-stranger come in my path I’ll eat you up tear you limb from limb or i’ll fall in love
-reckless reckless reckless
-if your love was an anchor then I am lost at sea I hear the riders calling they’re calling for me
-
-calling for me
-calling for me
-calling for me
-calling for me
+        breathless
+        the smell of your hair on the curtains babe the wind blew the windows out in the rain
+        reckless reckless
+        and every part of you is in me now there’s no going back I breathe you out
+        breathless breathless breathless
+        london sun the air like a shot hey ma i’m cracking cracking up
+        reckless reckless reckless
+        and i’ve been mourning you since the day I met you
+        stranger come in my path I’ll eat you up tear you limb from limb or i’ll fall in love
+        reckless reckless reckless
+        if your love was an anchor then I am lost at sea I hear the riders calling they’re calling for me
+        
+        calling for me
+        calling for me
+        calling for me
+        calling for me
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -9.22 dB
       REPLAYGAIN_TRACK_PEAK: 0.98409295
@@ -221215,29 +221390,29 @@ calling for me
         USA2P2401576
       UNSYNCEDLYRICS: |
         on the street i’m a kingsize killer
-I can make your kingdom come
-on my feet I’m an earthquake shaking
-so open up my little one
-
-hey what are you looking at
-who the hell do you think I am
-what are you looking at
-like you never seen a broken man
-
-lover nail yourself right to me
-if you go I won’t be well
-I can hold my arms right open 
-but I need you to drive the nail
-hey what are you looking at
-who the hell do you think I am
-what are you looking at
-like you never seen a broken man
-
-How do you see me now? 
-You built my tower to tear it down.
-And how could you see me now?
-If I stopped cracking up myself 
-If I stopped cracking up
+        I can make your kingdom come
+        on my feet I’m an earthquake shaking
+        so open up my little one
+        
+        hey what are you looking at
+        who the hell do you think I am
+        what are you looking at
+        like you never seen a broken man
+        
+        lover nail yourself right to me
+        if you go I won’t be well
+        I can hold my arms right open 
+        but I need you to drive the nail
+        hey what are you looking at
+        who the hell do you think I am
+        what are you looking at
+        like you never seen a broken man
+        
+        How do you see me now? 
+        You built my tower to tear it down.
+        And how could you see me now?
+        If I stopped cracking up myself 
+        If I stopped cracking up
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -11.25 dB
       REPLAYGAIN_TRACK_PEAK: 0.99027216
@@ -221254,34 +221429,34 @@ If I stopped cracking up
         USA2P2401577
       UNSYNCEDLYRICS: |
         i’m just like a hungry little flea
-jumping on somebody’s warm body
-when you start to itch and scratch and scream
-once i’m in you can’t get rid of me
-
-drip you in diamonds pour you in cream
-you will be mine for eternity
-hair in my shears fall at your feet
-you will be mine for eternity
-
-when you’re walking down your sunny street
-(I got it)
-thinking of your bills or what to eat
-(I got it)
-then you feel that little prick from me
-look at you and all I see is meat
-
-
-drip you in diamonds pour you in cream
-you will be mine for eternity
-i’ll bring you china milk for your tea
-you will be mine for eternity
-
-eternity
-
-drip you in diamonds pour you in cream
-you will be mine for eternity
-hair in my shear fall at your feet
-you will be mine my everything
+        jumping on somebody’s warm body
+        when you start to itch and scratch and scream
+        once i’m in you can’t get rid of me
+        
+        drip you in diamonds pour you in cream
+        you will be mine for eternity
+        hair in my shears fall at your feet
+        you will be mine for eternity
+        
+        when you’re walking down your sunny street
+        (I got it)
+        thinking of your bills or what to eat
+        (I got it)
+        then you feel that little prick from me
+        look at you and all I see is meat
+        
+        
+        drip you in diamonds pour you in cream
+        you will be mine for eternity
+        i’ll bring you china milk for your tea
+        you will be mine for eternity
+        
+        eternity
+        
+        drip you in diamonds pour you in cream
+        you will be mine for eternity
+        hair in my shear fall at your feet
+        you will be mine my everything
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -10.32 dB
       REPLAYGAIN_TRACK_PEAK: 0.97745919
@@ -221298,29 +221473,29 @@ you will be mine my everything
         USA2P2401578
       UNSYNCEDLYRICS: |
         don’t blink don’t wait don’t walk you’re late don’t fall from grace behave don’t trip sashay ok sashay
-don’t kid don’t blame don’t snap insane don’t crack don’t act your age don’t change your name its all the rage 
-do ask but don’t tell don’t laugh but do smile don’t have a glass don’t stay a while don’t take a pic don’t feel so sick
-
-big time nothing
-
-I look inside I look inside I look inside
-nothing
-I look inside I look inside I look inside
-your eyes
-
-
-one two one two
-
-don’t show don’t flake go hard debase don’t make a dishonest mistake don’t be so sure I need a cure one more score 
-
-big time nothing
-just like a 
-big time nothing
-I I I 
-I look inside I look inside I look inside
-nothing
-I look inside I look inside I look inside
-your eyes
+        don’t kid don’t blame don’t snap insane don’t crack don’t act your age don’t change your name its all the rage 
+        do ask but don’t tell don’t laugh but do smile don’t have a glass don’t stay a while don’t take a pic don’t feel so sick
+        
+        big time nothing
+        
+        I look inside I look inside I look inside
+        nothing
+        I look inside I look inside I look inside
+        your eyes
+        
+        
+        one two one two
+        
+        don’t show don’t flake go hard debase don’t make a dishonest mistake don’t be so sure I need a cure one more score 
+        
+        big time nothing
+        just like a 
+        big time nothing
+        I I I 
+        I look inside I look inside I look inside
+        nothing
+        I look inside I look inside I look inside
+        your eyes
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -10.33 dB
       REPLAYGAIN_TRACK_PEAK: 1.00000000
@@ -221337,18 +221512,18 @@ your eyes
         USA2P2401579
       UNSYNCEDLYRICS: |
         violent times almost lost you in these violent times
-I forgot people be so kind in these violent times
-dollar signs almost lost it chasing dollar signs
-know the cost but I forgot the price of buying my lie
-
-I must have been dreaming I fell down the well
-waking up waking up in hell
-
-different eyes you’re the same but I got different eyes
-how could I ever have been so blind blame these violent times
-when all of the bombs inside all of the wires I hide all of the wasted nights fighting mortality when in the ashes of pompeii lovers discovered in an embrace for all eternity
-
-I must have dreaming I fell down the well but I swear you were hearing me through the noise and static and the call
+        I forgot people be so kind in these violent times
+        dollar signs almost lost it chasing dollar signs
+        know the cost but I forgot the price of buying my lie
+        
+        I must have been dreaming I fell down the well
+        waking up waking up in hell
+        
+        different eyes you’re the same but I got different eyes
+        how could I ever have been so blind blame these violent times
+        when all of the bombs inside all of the wires I hide all of the wasted nights fighting mortality when in the ashes of pompeii lovers discovered in an embrace for all eternity
+        
+        I must have dreaming I fell down the well but I swear you were hearing me through the noise and static and the call
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -9.05 dB
       REPLAYGAIN_TRACK_PEAK: 0.97236991
@@ -221365,19 +221540,19 @@ I must have dreaming I fell down the well but I swear you were hearing me throug
         USA2P2401580
       UNSYNCEDLYRICS: |
         monday morning subway station pushers pushing racers racing came the message on the station the power’s out across the nation
-and ladies and gentleman it seems we’ve got a problem the man on my screen said just as somebody shot him
-and the mothers gasped the children cried almost could not believe my eyes
-the power’s out and no one can save us no one can blame us now
-that the power’s out
-
-it was pouring like a movie every stranger looked like they knew me handsome cowboys praying gothic said I just remembered being happy
-and “ladies and gentleman do remember me smiling” the queer on the train said as she jumped off the platform
-and some blind folks held the police crying I swear to you I would not lie
-the power’s out
-the power’s out and no one can save us no one can blame us now
-that the power’s out
-
-that’s why I never came home
+        and ladies and gentleman it seems we’ve got a problem the man on my screen said just as somebody shot him
+        and the mothers gasped the children cried almost could not believe my eyes
+        the power’s out and no one can save us no one can blame us now
+        that the power’s out
+        
+        it was pouring like a movie every stranger looked like they knew me handsome cowboys praying gothic said I just remembered being happy
+        and “ladies and gentleman do remember me smiling” the queer on the train said as she jumped off the platform
+        and some blind folks held the police crying I swear to you I would not lie
+        the power’s out
+        the power’s out and no one can save us no one can blame us now
+        that the power’s out
+        
+        that’s why I never came home
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -9.03 dB
       REPLAYGAIN_TRACK_PEAK: 0.98193204
@@ -221394,24 +221569,24 @@ that’s why I never came home
         USA2P2401581
       UNSYNCEDLYRICS: |
         my sophie climbed the roof to get a better view of the moon
-my god then one wrong stair took her down to the depths but for a minute what a view what a view
-you’re a natural baby you don’t have to quit 
-sweetest fruit
-you’re a natural baby you know this aint it
-the sweetest fruit is on the limb
-
-my danny took a bus to find america it goes on and on and on and on and on
-
-you’re a natural baby you don’t have to quit 
-sweetest fruit
-you’re a natural baby you know this aint it
-the sweetest fruit is on the limb
-
-
-you’re a natural baby you don’t have to quit 
-sweetest fruit
-you’re a natural baby you know this aint it
-the sweetest fruit is on the limb
+        my god then one wrong stair took her down to the depths but for a minute what a view what a view
+        you’re a natural baby you don’t have to quit 
+        sweetest fruit
+        you’re a natural baby you know this aint it
+        the sweetest fruit is on the limb
+        
+        my danny took a bus to find america it goes on and on and on and on and on
+        
+        you’re a natural baby you don’t have to quit 
+        sweetest fruit
+        you’re a natural baby you know this aint it
+        the sweetest fruit is on the limb
+        
+        
+        you’re a natural baby you don’t have to quit 
+        sweetest fruit
+        you’re a natural baby you know this aint it
+        the sweetest fruit is on the limb
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -8.91 dB
       REPLAYGAIN_TRACK_PEAK: 0.98680878
@@ -221428,26 +221603,26 @@ the sweetest fruit is on the limb
         USA2P2401582
       UNSYNCEDLYRICS: |
         misfiring chemicals and scary ideas
-this revolution isn’t fun, ma
-i’m out of fashion I got God on my heels
-i’m dropping promises like H bombs but keep calm
-
-i’m at the back of my head watching my life happening
-watching the sink filling red and i’m not stopping it
-
-I have to visit so many planets before I find my own
-I fall asleep in the golden highway before I find it
-
-hemorrhaging heartthrob with a six pack of beer
-leaning outside her burned out window
-she isn’t smiling but she’s happy you’re here
-we’ll make a killing from her trauma oh mama
-
-here at the back of my head watching my life happening
-feeling distinct smithereens i’ve gotten used to it
-
-I have to visit so many planets before I find my own
-I fall asleep in the golden highway before I find it
+        this revolution isn’t fun, ma
+        i’m out of fashion I got God on my heels
+        i’m dropping promises like H bombs but keep calm
+        
+        i’m at the back of my head watching my life happening
+        watching the sink filling red and i’m not stopping it
+        
+        I have to visit so many planets before I find my own
+        I fall asleep in the golden highway before I find it
+        
+        hemorrhaging heartthrob with a six pack of beer
+        leaning outside her burned out window
+        she isn’t smiling but she’s happy you’re here
+        we’ll make a killing from her trauma oh mama
+        
+        here at the back of my head watching my life happening
+        feeling distinct smithereens i’ve gotten used to it
+        
+        I have to visit so many planets before I find my own
+        I fall asleep in the golden highway before I find it
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -9.53 dB
       REPLAYGAIN_TRACK_PEAK: 0.98216081
@@ -221464,28 +221639,28 @@ I fall asleep in the golden highway before I find it
         USA2P2401583
       UNSYNCEDLYRICS: |
         I have climbed power lines and mountains just to feel above the ground
-I have crawled out your hallowed houses just to feel my headache pound
-I feel like graffiti on a urinal in the abattoir well it goes and it goes
-I can’t stop my legs I can’t feel my feet I own nothing and nothing owns me
-
-we’re all born screaming
-we’re all born screaming
-well well
-
-I have climbed into open arms that turned into a straight jacket
-stolen hearts I didn’t need but man I always paid for them
-I was a pantomime of a modern girl those were the days and I was miserable a karaoke version of leonard’s “hallelujah” in my whole damn life I had never exhaled oh well
-
-we’re all born screaming
-we’re all born screaming
-we’re all born screaming
-we’re all born screaming
-well well well well
-
-all born screaming
-all born screaming
-all born screaming
-all born screaming
+        I have crawled out your hallowed houses just to feel my headache pound
+        I feel like graffiti on a urinal in the abattoir well it goes and it goes
+        I can’t stop my legs I can’t feel my feet I own nothing and nothing owns me
+        
+        we’re all born screaming
+        we’re all born screaming
+        well well
+        
+        I have climbed into open arms that turned into a straight jacket
+        stolen hearts I didn’t need but man I always paid for them
+        I was a pantomime of a modern girl those were the days and I was miserable a karaoke version of leonard’s “hallelujah” in my whole damn life I had never exhaled oh well
+        
+        we’re all born screaming
+        we’re all born screaming
+        we’re all born screaming
+        we’re all born screaming
+        well well well well
+        
+        all born screaming
+        all born screaming
+        all born screaming
+        all born screaming
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -8.29 dB
       REPLAYGAIN_TRACK_PEAK: 0.99524367
@@ -282718,8 +282893,7 @@ Sunny Yang, Cello
   - ALBUM: |
       Sabresonic II
     DATE: 1995
-    GENRE: Alternative
-Dance
+    GENRE: Alternative, Dance
     MEDIA: |
       CD
     Tracks:
@@ -289945,54 +290119,54 @@ Dance
         GB8KY2200016
       UNSYNCEDLYRICS: |
         One dollar, one vote 
-Watch where the money goes 
-Even truth, in an age of deceit 
-Is impossible to believe 
-
-Because 
-Everything is inverted
- Everything perverted 
-Everybody’s got something to hide 
-Everybody tells lies
- Those who profess love the loudest 
-Practice hate the proudest 
-I’ll say it again 
-Those who profess love the loudest 
-Practice hate the proudest 
-
-One dollar, one vote
- Watch where the money goes 
-No justice for Jesus
- While all the diseases 
-
-Are too lucrative to cure 
-Too much to endure 
-Because a rich man’s war 
-Is a poor man’s fight 
-And there ain’t no cure 
-For this virus of the mind 
-What was said is unsaid 
-What’s implied is denied 
-Fact becomes opinion 
-Opinion becomes crime 
-
-To do or to die 
-Yet never wonder why? 
-
-One dollar, one vote 
-Watch where the money goes 
-Even truth, in an age of deceit 
-Is impossible to believe 
-
-But did we ever really have a voice? 
-Do we ever really have a choice? 
-When different masks on the same face 
-Dictate what to love and who to hate? 
-
-One dollar, one vote 
-One dollar, one vote 
-One dollar, one vote 
-Time to take back what we own
+        Watch where the money goes 
+        Even truth, in an age of deceit 
+        Is impossible to believe 
+        
+        Because 
+        Everything is inverted
+         Everything perverted 
+        Everybody’s got something to hide 
+        Everybody tells lies
+         Those who profess love the loudest 
+        Practice hate the proudest 
+        I’ll say it again 
+        Those who profess love the loudest 
+        Practice hate the proudest 
+        
+        One dollar, one vote
+         Watch where the money goes 
+        No justice for Jesus
+         While all the diseases 
+        
+        Are too lucrative to cure 
+        Too much to endure 
+        Because a rich man’s war 
+        Is a poor man’s fight 
+        And there ain’t no cure 
+        For this virus of the mind 
+        What was said is unsaid 
+        What’s implied is denied 
+        Fact becomes opinion 
+        Opinion becomes crime 
+        
+        To do or to die 
+        Yet never wonder why? 
+        
+        One dollar, one vote 
+        Watch where the money goes 
+        Even truth, in an age of deceit 
+        Is impossible to believe 
+        
+        But did we ever really have a voice? 
+        Do we ever really have a choice? 
+        When different masks on the same face 
+        Dictate what to love and who to hate? 
+        
+        One dollar, one vote 
+        One dollar, one vote 
+        One dollar, one vote 
+        Time to take back what we own
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -9.11 dB
       REPLAYGAIN_TRACK_PEAK: 0.98740828
@@ -290009,47 +290183,47 @@ Time to take back what we own
         GB8KY0700001
       UNSYNCEDLYRICS: |
         VERSE 1
-
-Plucked from the nest
-Body scrubbed bare
-Led gently down the narrow stairs
-
-The grinding of teeth
-Scraping of feet
-Pulling hard against the empty streets
-
-But here will be learned the lessons of life
-Feels like something is dying
-Father waves goodbye
-I just wanna run home to cry
-
-Tiny I shrink, huge they grow
-Ugly kids in duffle coats
-Plimsolls made from tar and rope
-Mouths washed out with carbolic soap
-
-CHORUS
-
-Mrs Mac, Mrs Mac
-Answer back and you’ll get more than a whack
-
-VERSE 2
-
-In my shorts, on my knees
-Swallowing liver, kidneys and greens
-Tears fall onto my plate
-Mrs Mac’s boot is in my face
-
-Stocky, short-tempered and mean
-She’s a fierce, fucking fighting machine
-
-She’ll fuck you up, she’ll grind you down
-It’ll cost you a fortune to figure it out
-
-CHORUS
-
-Mrs Mac, Mrs Mac, Mrs Mac, Mrs Mac
-Mrs Mac, Mrs Mac, Mrs Mac, Mrs Mac
+        
+        Plucked from the nest
+        Body scrubbed bare
+        Led gently down the narrow stairs
+        
+        The grinding of teeth
+        Scraping of feet
+        Pulling hard against the empty streets
+        
+        But here will be learned the lessons of life
+        Feels like something is dying
+        Father waves goodbye
+        I just wanna run home to cry
+        
+        Tiny I shrink, huge they grow
+        Ugly kids in duffle coats
+        Plimsolls made from tar and rope
+        Mouths washed out with carbolic soap
+        
+        CHORUS
+        
+        Mrs Mac, Mrs Mac
+        Answer back and you’ll get more than a whack
+        
+        VERSE 2
+        
+        In my shorts, on my knees
+        Swallowing liver, kidneys and greens
+        Tears fall onto my plate
+        Mrs Mac’s boot is in my face
+        
+        Stocky, short-tempered and mean
+        She’s a fierce, fucking fighting machine
+        
+        She’ll fuck you up, she’ll grind you down
+        It’ll cost you a fortune to figure it out
+        
+        CHORUS
+        
+        Mrs Mac, Mrs Mac, Mrs Mac, Mrs Mac
+        Mrs Mac, Mrs Mac, Mrs Mac, Mrs Mac
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -6.78 dB
       REPLAYGAIN_TRACK_PEAK: 0.97722828
@@ -296287,8 +296461,7 @@ Mrs Mac, Mrs Mac, Mrs Mac, Mrs Mac
     DATE: 2015
     COPYRIGHT: |
       2015 RabbleRouser Music 2015 RabbleRouser Music
-    GENRE: Folk
-Christmas
+    GENRE: Folk, Christmas
     LABEL: |
       Rabblerouser Music
     MEDIA: |
@@ -307806,28 +307979,28 @@ Christmas
         The Wolfhounds
       UNSYNCEDLYRICS: |
         LA Juice
-Got that LA juice in my veins 
-got a fried donut for brains 
-the hole in the middle is my life and that 
-the dough on the outside and escapist trap
-Gee!
-Show me a rebel and Ill show you a cash plan
- I’ll be laughing from the bottom of my bucket
-Got that TV juice in my veins 
-Well, the slightest attention I’ll treat it as fame
- Feed me my drip and keep it flowing 
-My bruised little heart’s got a new film showing 
-Gee!
-Got that PVC juice on my back again
- those long black cars are driving me insane 
-Your life is porn a racket a game 
-Give me attention – I’ll limp ‘til I really am lame
-Gee! Sincere! We mean it from the bottom of our buckets
-Found in the dark, and I’ll bask in the shame 
-Got that oh dear OD juice in my veins 
-Boiling up the kettle for one cup of ease 
-Tread over your pleasure for the life of ease
-Gee!
+        Got that LA juice in my veins 
+        got a fried donut for brains 
+        the hole in the middle is my life and that 
+        the dough on the outside and escapist trap
+        Gee!
+        Show me a rebel and Ill show you a cash plan
+         I’ll be laughing from the bottom of my bucket
+        Got that TV juice in my veins 
+        Well, the slightest attention I’ll treat it as fame
+         Feed me my drip and keep it flowing 
+        My bruised little heart’s got a new film showing 
+        Gee!
+        Got that PVC juice on my back again
+         those long black cars are driving me insane 
+        Your life is porn a racket a game 
+        Give me attention – I’ll limp ‘til I really am lame
+        Gee! Sincere! We mean it from the bottom of our buckets
+        Found in the dark, and I’ll bask in the shame 
+        Got that oh dear OD juice in my veins 
+        Boiling up the kettle for one cup of ease 
+        Tread over your pleasure for the life of ease
+        Gee!
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -1.36 dB
       REPLAYGAIN_TRACK_PEAK: 0.57635498
@@ -307842,23 +308015,23 @@ Gee!
         The Wolfhounds
       UNSYNCEDLYRICS: |
         Another Hazy Day on the ‘Lazy A’
-Corpse deflates to the ground 
-buzzards circle round 
-a drunk man dribbles and the dust it settles
- on another hazy day on the Lazy ‘A’
-A skull leers from an outcrop 
-blazing white bleached crack in the top 
-teeth still smoke-blacked since the flesh slacked 
-on another hazy day on the Lazy ‘A’
-An owl peers from a cactus rotten and brown
- the branch collapses the bird has flown
- the drunk lies down hat titled over eyes
- his wounds licked by flies
-on another hazy day on the Lazy ‘A’
-The desert was bland today 
-Sands all blown away 
-Boulders cracked all the way 
-The wood rotten, grey
+        Corpse deflates to the ground 
+        buzzards circle round 
+        a drunk man dribbles and the dust it settles
+         on another hazy day on the Lazy ‘A’
+        A skull leers from an outcrop 
+        blazing white bleached crack in the top 
+        teeth still smoke-blacked since the flesh slacked 
+        on another hazy day on the Lazy ‘A’
+        An owl peers from a cactus rotten and brown
+         the branch collapses the bird has flown
+         the drunk lies down hat titled over eyes
+         his wounds licked by flies
+        on another hazy day on the Lazy ‘A’
+        The desert was bland today 
+        Sands all blown away 
+        Boulders cracked all the way 
+        The wood rotten, grey
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: +1.16 dB
       REPLAYGAIN_TRACK_PEAK: 0.48071289
@@ -307873,32 +308046,32 @@ The wood rotten, grey
         The Wolfhounds
       UNSYNCEDLYRICS: |
         Cut the Cake
-Well every other sunny day 
-you can come and cut the cake 
-The thin line between shade and night 
-Cross the border into the daylight 
-if you want to feel that way
- come over here and cut the cake 
-All summer I was in the cold shade 
-Keeping co with the stalactites and stalagmites 
-Spent restless sweaty nights 
-The cost of dowsing the candlelight
-Well come on over and cut the cake 
-take a dip in the milky lake 
-tried to cut the atmosphere beyond 
-up to the neck in a stagnant pond
- just try and see what you can take 
-come over here and cut the cake
-Everything is already alive 
-white cotton stings your eyes 
-white dress telling white lies 
-grinning, we’re as free as flies
-The smell of cut grass 
-glinting of an empty glass
-So what do you say?
- come around and cut the cake
-
-You can’t get away from it. Even in the bright green kaleidoscope wilds of somewhere, here it comes, dented rust cans and snot rags rolling down the river, chemical stream fingers, tousled knotting hair, stinking hyphae fronds wrapped round your legs and deep into the ground, perhaps even to the molten core of the earth it seems … everywhere secondhand, lived-in …
+        Well every other sunny day 
+        you can come and cut the cake 
+        The thin line between shade and night 
+        Cross the border into the daylight 
+        if you want to feel that way
+         come over here and cut the cake 
+        All summer I was in the cold shade 
+        Keeping co with the stalactites and stalagmites 
+        Spent restless sweaty nights 
+        The cost of dowsing the candlelight
+        Well come on over and cut the cake 
+        take a dip in the milky lake 
+        tried to cut the atmosphere beyond 
+        up to the neck in a stagnant pond
+         just try and see what you can take 
+        come over here and cut the cake
+        Everything is already alive 
+        white cotton stings your eyes 
+        white dress telling white lies 
+        grinning, we’re as free as flies
+        The smell of cut grass 
+        glinting of an empty glass
+        So what do you say?
+         come around and cut the cake
+        
+        You can’t get away from it. Even in the bright green kaleidoscope wilds of somewhere, here it comes, dented rust cans and snot rags rolling down the river, chemical stream fingers, tousled knotting hair, stinking hyphae fronds wrapped round your legs and deep into the ground, perhaps even to the molten core of the earth it seems … everywhere secondhand, lived-in …
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -2.66 dB
       REPLAYGAIN_TRACK_PEAK: 0.52435303
@@ -307913,33 +308086,33 @@ You can’t get away from it. Even in the bright green kaleidoscope wilds of som
         The Wolfhounds
       UNSYNCEDLYRICS: |
         Deadthink
-Screaming through the cave, 
-head on down the tunnel 
-pains and sweat now
- forced down a funnel 
-deadthink deadthink
-The eyesight was once believed 
-now eyes are open with the blinkers on 
-long gone long gone 
-deadthink deadthink
-Still here nagging still here nagging
- kicking all the wrong boys, 
-still out there fagging 
-still out there fagging 
-deadthink deadthink
-Scratch your eyes you bitch 
-go and sleep in your own ditch 
-cue the violins cue the violins
- dragging you down to where you begin 
-deadthink deadthink
-Sunday morning Rolls Royce drivers eating with fat teeth 
-a pink worm writhes and wriggles underneath 
-got a beady wet glass eye
- the corpse got on a suit and tie
- its keeping up appearances
- keeping up appearances
- I can’t get away
- can’t get away
+        Screaming through the cave, 
+        head on down the tunnel 
+        pains and sweat now
+         forced down a funnel 
+        deadthink deadthink
+        The eyesight was once believed 
+        now eyes are open with the blinkers on 
+        long gone long gone 
+        deadthink deadthink
+        Still here nagging still here nagging
+         kicking all the wrong boys, 
+        still out there fagging 
+        still out there fagging 
+        deadthink deadthink
+        Scratch your eyes you bitch 
+        go and sleep in your own ditch 
+        cue the violins cue the violins
+         dragging you down to where you begin 
+        deadthink deadthink
+        Sunday morning Rolls Royce drivers eating with fat teeth 
+        a pink worm writhes and wriggles underneath 
+        got a beady wet glass eye
+         the corpse got on a suit and tie
+         its keeping up appearances
+         keeping up appearances
+         I can’t get away
+         can’t get away
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -1.15 dB
       REPLAYGAIN_TRACK_PEAK: 0.57461548
@@ -307954,28 +308127,28 @@ got a beady wet glass eye
         The Wolfhounds
       UNSYNCEDLYRICS: |
         Stars in the Tarmac
-We’ve trod this road before 
-with holes in the firmament  there is a hung parliament 
-where nothing gets done 
-where nothing gets done 
-where your friends are all brilliant 
-your acquaintances all excellent 
-your teeth the sugar grips
-Your mates are shimmering 
-your mates are shimmering 
-shivering 
-like stars in the tarmac
-We’ve trod this road before 
-with holes in the firmament  
-there is a hung parliament 
-where nothing gets done 
-where nothing gets done 
-down comes the rain at night
- up goes the evaporite 
-pinned with tiny black holes
-Pinpoint frozen cheeks 
-your mates are shivering 
-glimmering  like stars in the tarmac.
+        We’ve trod this road before 
+        with holes in the firmament  there is a hung parliament 
+        where nothing gets done 
+        where nothing gets done 
+        where your friends are all brilliant 
+        your acquaintances all excellent 
+        your teeth the sugar grips
+        Your mates are shimmering 
+        your mates are shimmering 
+        shivering 
+        like stars in the tarmac
+        We’ve trod this road before 
+        with holes in the firmament  
+        there is a hung parliament 
+        where nothing gets done 
+        where nothing gets done 
+        down comes the rain at night
+         up goes the evaporite 
+        pinned with tiny black holes
+        Pinpoint frozen cheeks 
+        your mates are shivering 
+        glimmering  like stars in the tarmac.
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -3.66 dB
       REPLAYGAIN_TRACK_PEAK: 0.91989136
@@ -307990,13 +308163,13 @@ glimmering  like stars in the tarmac.
         The Wolfhounds
       UNSYNCEDLYRICS: |
         Midget Horror
-A love letter without a lover is a useless piece of paper 
-a nagging irritator 
-a pointless see you later
-A brand new day with nothing to do is a terrible waste of air 
-a brush of teeth a wash of hair
-a river that takes you nowhere
-Please don’t touch me there
+        A love letter without a lover is a useless piece of paper 
+        a nagging irritator 
+        a pointless see you later
+        A brand new day with nothing to do is a terrible waste of air 
+        a brush of teeth a wash of hair
+        a river that takes you nowhere
+        Please don’t touch me there
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -1.88 dB
       REPLAYGAIN_TRACK_PEAK: 0.85775757
@@ -308011,24 +308184,24 @@ Please don’t touch me there
         The Wolfhounds
       UNSYNCEDLYRICS: |
         One foot wrong
-You better hold on to your brass
- see if it rubs up fine 
-how much can you take? 
-how much can you leave behind?
-You put one foot wrong 
-You put one foot wrong 
-and all the others are too
-You better work hard all along 
-try and earn more than one 
-cos if you got two pennies 
-you can rub them together just for fun
-  now if you wanna see a wish come true 
-you better throw them all down the well 
-cos if you hold on to them all 
-you might just have to sell
-Middle four 
-what do you want a middle for? 
-we’ve got a beginning and an end
+        You better hold on to your brass
+         see if it rubs up fine 
+        how much can you take? 
+        how much can you leave behind?
+        You put one foot wrong 
+        You put one foot wrong 
+        and all the others are too
+        You better work hard all along 
+        try and earn more than one 
+        cos if you got two pennies 
+        you can rub them together just for fun
+          now if you wanna see a wish come true 
+        you better throw them all down the well 
+        cos if you hold on to them all 
+        you might just have to sell
+        Middle four 
+        what do you want a middle for? 
+        we’ve got a beginning and an end
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -3.43 dB
       REPLAYGAIN_TRACK_PEAK: 0.84780884
@@ -308055,19 +308228,19 @@ we’ve got a beginning and an end
         The Wolfhounds
       UNSYNCEDLYRICS: |
         Restless Spell 
-Things are usually drifting quite well 
-something throws a curse into the world 
-it has a restless spell
-And when you’ve settled down it starts again
- from the warmth of the house into the pouring rain
- running in the spell 
-the restless spell
-Time to brush the chaff aside 
-and the oldest truth becomes an embarrassment, a lie 
-the sun rolls on its side and dies 
-in a restless spell
-If only it was always this pure 
-the outcome would always be sure
+        Things are usually drifting quite well 
+        something throws a curse into the world 
+        it has a restless spell
+        And when you’ve settled down it starts again
+         from the warmth of the house into the pouring rain
+         running in the spell 
+        the restless spell
+        Time to brush the chaff aside 
+        and the oldest truth becomes an embarrassment, a lie 
+        the sun rolls on its side and dies 
+        in a restless spell
+        If only it was always this pure 
+        the outcome would always be sure
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -0.43 dB
       REPLAYGAIN_TRACK_PEAK: 0.79092407
@@ -308106,35 +308279,35 @@ the outcome would always be sure
         The Wolfhounds
       UNSYNCEDLYRICS: |
         Hand in the Till
-Caught you with your hand in the till again
- The easy way out, easy thrill again
- in a hopeless heaven from the age of seven 
-caught you with your hand in the till again
-Well do you want to go out? 
-no, I think I’ll stay in 
-wait til everyone’s out 
-under cover of darkness on the wing 
-to the back door of some stranger’s house 
-under the floorboards the rat grows from a mouse 
-building up mounting up 
-off duty is the sentry 
-for the great break and entry 
-the great break and entry
-Vacuum tugging at my heart 
-every suck tears me apart 
-I’m in someone’s back yard and I need my camouflage
-I crave immediate food now 
-saving up for fruits will turn sour 
-I take my own football away 
-when you won’t play the game fair
-Vacuum tugging at my heart 
-every suck tears me apart
- I’m in someone’s back yard and I need my camouflage 
-need my camouflage
-Caught you with your hand in the till again 
-The easy way out, easy thrill again
- in a hopeless heaven from the age of reason
- caught you with your hand in the till again
+        Caught you with your hand in the till again
+         The easy way out, easy thrill again
+         in a hopeless heaven from the age of seven 
+        caught you with your hand in the till again
+        Well do you want to go out? 
+        no, I think I’ll stay in 
+        wait til everyone’s out 
+        under cover of darkness on the wing 
+        to the back door of some stranger’s house 
+        under the floorboards the rat grows from a mouse 
+        building up mounting up 
+        off duty is the sentry 
+        for the great break and entry 
+        the great break and entry
+        Vacuum tugging at my heart 
+        every suck tears me apart 
+        I’m in someone’s back yard and I need my camouflage
+        I crave immediate food now 
+        saving up for fruits will turn sour 
+        I take my own football away 
+        when you won’t play the game fair
+        Vacuum tugging at my heart 
+        every suck tears me apart
+         I’m in someone’s back yard and I need my camouflage 
+        need my camouflage
+        Caught you with your hand in the till again 
+        The easy way out, easy thrill again
+         in a hopeless heaven from the age of reason
+         caught you with your hand in the till again
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: +0.25 dB
       REPLAYGAIN_TRACK_PEAK: 0.85153198
@@ -308149,37 +308322,37 @@ The easy way out, easy thrill again
         The Wolfhounds
       UNSYNCEDLYRICS: |
         Disgusted E7
-I rode to Aldgate on a 225 
-and the crowd shook me alive 
-and I swear by the dirt in my nails 
-and by the will that always fails 
-these are the streets where nothing grows 
-there’s easy pickings for the ones who know 
-but I know nothing and it’s being rubbed in 
-out of the carton and straight in the bin
-And I walked through an excuse 
-for a park a shield of concrete and a sheet of glass
- in the bushes where the law takes flight 
-deserted by day and diverted at night
-I went to sleep
- I went to sleep 
-I went to sleep in the witness stand 
-my body tossed and turned by ghostly hands
- I was being born and lying dead 
-and I awoke with the thickest of heads
-There was a knock and I opened the door 
-rain on the pavement and shit on the floor 
-and the chemist was open late 
-the only cross on the eastern estate
-I fell from grace  
-I fell from grace    
-I fell from grace  
- I fell from grace in the west end of town 
-the rich and the waste always bring me down
-I fell from grace in the west end of town 
-the rich and the waste always brings me down 
-I rode to Aldgate on a 225
- where the wasted are just kept alive
+        I rode to Aldgate on a 225 
+        and the crowd shook me alive 
+        and I swear by the dirt in my nails 
+        and by the will that always fails 
+        these are the streets where nothing grows 
+        there’s easy pickings for the ones who know 
+        but I know nothing and it’s being rubbed in 
+        out of the carton and straight in the bin
+        And I walked through an excuse 
+        for a park a shield of concrete and a sheet of glass
+         in the bushes where the law takes flight 
+        deserted by day and diverted at night
+        I went to sleep
+         I went to sleep 
+        I went to sleep in the witness stand 
+        my body tossed and turned by ghostly hands
+         I was being born and lying dead 
+        and I awoke with the thickest of heads
+        There was a knock and I opened the door 
+        rain on the pavement and shit on the floor 
+        and the chemist was open late 
+        the only cross on the eastern estate
+        I fell from grace  
+        I fell from grace    
+        I fell from grace  
+         I fell from grace in the west end of town 
+        the rich and the waste always bring me down
+        I fell from grace in the west end of town 
+        the rich and the waste always brings me down 
+        I rode to Aldgate on a 225
+         where the wasted are just kept alive
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: +2.17 dB
       REPLAYGAIN_TRACK_PEAK: 0.61386108
@@ -308194,35 +308367,35 @@ I rode to Aldgate on a 225
         The Wolfhounds
       UNSYNCEDLYRICS: |
         Cold shoulder
-And I will grow impatient of waiting for you
- like an outpatient slumped in a queue 
-and I will grab a second if I can 
-as the crow zigzags across the land 
-parked on your cold shoulder
-I rode all the way from A to Z 
-darkness where you raised the dead 
-problems that we couldn’t prevent 
-needed saying but nothing said 
-nothing said
-And I will grow roots here 
-we knot our nerves here 
-mad bodies and faces  
-short sharp shock embraces 
-something needs saying but nothing said 
-now there’s only head to keep us company 
-parked on your cold shoulder
-Lying down in my bed on the shelf 
-a voice fills my head and I rid myself 
-carries out my wishes with one command 
-now there’s only heads to keep us company 
-company
-And I don’t wanna go alone
-to a place that isn’t home 
-the cold distance you keep is all I can see
-somewhere in that cold distance 
-hopes you might see me 
-parked on your cold shoulder 
-perched on your cold shoulder etc etc
+        And I will grow impatient of waiting for you
+         like an outpatient slumped in a queue 
+        and I will grab a second if I can 
+        as the crow zigzags across the land 
+        parked on your cold shoulder
+        I rode all the way from A to Z 
+        darkness where you raised the dead 
+        problems that we couldn’t prevent 
+        needed saying but nothing said 
+        nothing said
+        And I will grow roots here 
+        we knot our nerves here 
+        mad bodies and faces  
+        short sharp shock embraces 
+        something needs saying but nothing said 
+        now there’s only head to keep us company 
+        parked on your cold shoulder
+        Lying down in my bed on the shelf 
+        a voice fills my head and I rid myself 
+        carries out my wishes with one command 
+        now there’s only heads to keep us company 
+        company
+        And I don’t wanna go alone
+        to a place that isn’t home 
+        the cold distance you keep is all I can see
+        somewhere in that cold distance 
+        hopes you might see me 
+        parked on your cold shoulder 
+        perched on your cold shoulder etc etc
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: +1.09 dB
       REPLAYGAIN_TRACK_PEAK: 0.69461060
@@ -308237,37 +308410,37 @@ perched on your cold shoulder etc etc
         The Wolfhounds
       UNSYNCEDLYRICS: |
         Boy Racers RM1
-Living in a double life 
-words processed like cheese 
-the great sun god breaks you down to your knees 
-living in a double life 
-your brains like Russian dolls all inside each other 
- living in a double life
- the town is grey and the posters saying 
-you’ve got to cram it in the licensing hours
- cram it in the licensing hours everybody – 
-free drinks on the house 
-stick it in his face!
-Living in a double life 
-sobriety and economic necessity
- living in a double life
-five minutes late and you’re fired 
-living in a double life 
-everything breaks and you’re tired
-  in the time it takes to buy the paper you’ve already read it 
-in the time it takes to review the papers you’ve already said it
-This country’s shrinking and the ranks are swelling
- like the head is shrinking, like the gut is swelling
- in too late and up too late 
-came too early
-You came too early  
-no one was there 
-you came too early 
- getting in was easy
-you came too early
- you missed out
- if everyone else wasn’t bleeding or sleeping 
-I’d be leaving
+        Living in a double life 
+        words processed like cheese 
+        the great sun god breaks you down to your knees 
+        living in a double life 
+        your brains like Russian dolls all inside each other 
+         living in a double life
+         the town is grey and the posters saying 
+        you’ve got to cram it in the licensing hours
+         cram it in the licensing hours everybody – 
+        free drinks on the house 
+        stick it in his face!
+        Living in a double life 
+        sobriety and economic necessity
+         living in a double life
+        five minutes late and you’re fired 
+        living in a double life 
+        everything breaks and you’re tired
+          in the time it takes to buy the paper you’ve already read it 
+        in the time it takes to review the papers you’ve already said it
+        This country’s shrinking and the ranks are swelling
+         like the head is shrinking, like the gut is swelling
+         in too late and up too late 
+        came too early
+        You came too early  
+        no one was there 
+        you came too early 
+         getting in was easy
+        you came too early
+         you missed out
+         if everyone else wasn’t bleeding or sleeping 
+        I’d be leaving
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -1.43 dB
       REPLAYGAIN_TRACK_PEAK: 0.67886353
@@ -314369,8 +314542,7 @@ I’d be leaving
     DATE: 2010
     COPYRIGHT: |
       ℗ 2010 Tom Lehrer under license to Shout! Factory LLC, 2042-A Armacost Ave., Los Angeles, CA  90025. All Rights Reserved.
-    GENRE: Christmas
-Comedy
+    GENRE: Christmas, Comedy
     MEDIA: |
       qobuz.com
     PURCHASEDATE: 2020-11-
@@ -343399,8 +343571,7 @@ Comedy
       Lawless
     DATE: 2012
     COMPILATION: 1
-    GENRE: Country
-Soundtrack
+    GENRE: Country, Soundtrack
     MEDIA: |
       CD
     Tracks:
@@ -376183,26 +376354,26 @@ Soundtrack
         Peerless Quartet
       UNSYNCEDLYRICS: |
         (Hanby)
-
-There's a low green valley on the old Kentucky shore
-Where I whiled many happy hours away
-A sitting and a singing by the little cottage door
-Where lived my darling Nellie Gray
-
-Oh my poor Nellie Gray, they have take you away
-And I'll never see my darling anymore
-I am sitting by the river and I'm weeping all the day
-For you've gone from the old Kentucky shore
-
-One night I went to see her, ""..but she's gone.."", the neighbor say 
-""...the white man bound her with his chain!""
-""They have take her to Georgia for to wear her life away
-as she toils in the cotten and the cane!""
-
-Oh my poor Nellie Gray, up in Heaven there they say
-That they'll never take you from me anymore
-I am coming, I am coming, as the angels clear the way
-Fare you well from the old Kentucky shore.
+        
+        There's a low green valley on the old Kentucky shore
+        Where I whiled many happy hours away
+        A sitting and a singing by the little cottage door
+        Where lived my darling Nellie Gray
+        
+        Oh my poor Nellie Gray, they have take you away
+        And I'll never see my darling anymore
+        I am sitting by the river and I'm weeping all the day
+        For you've gone from the old Kentucky shore
+        
+        One night I went to see her, ""..but she's gone.."", the neighbor say 
+        ""...the white man bound her with his chain!""
+        ""They have take her to Georgia for to wear her life away
+        as she toils in the cotten and the cane!""
+        
+        Oh my poor Nellie Gray, up in Heaven there they say
+        That they'll never take you from me anymore
+        I am coming, I am coming, as the angels clear the way
+        Fare you well from the old Kentucky shore.
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -9.12 dB
       REPLAYGAIN_TRACK_PEAK: 0.99996948
@@ -391787,31 +391958,31 @@ Fare you well from the old Kentucky shore.
         GXHT32500014
       UNSYNCEDLYRICS: |
         Last Christmas I gave you my heart
-But the very next day you gave it away
-This year, to save me from tears
-I’ll give it to someone special
-Once bitten and twice shy
-I keep my distance, but you still catch my eye
-Tell me baby, do you recognise me? 
-Well, it’s been a year, it doesn’t surprise me 
-“Merry Christmas” I wrapped it up and sent it 
-With a note saying “I love you”, I meant it 
-Now I know what a fool I’ve been 
-But if you kissed me now, I know you’d fool me again
-Last Christmas…
-A crowded room, friends with tired eyes
-I’m hiding from you and your soul of ice
-My god I thought you were someone to rely on
-Me, I guess I was a shoulder to cry on
-A face on a lover, with a fire in her heart
-A girl under cover but you tore me apart
-Now I’ve found a real love you’ll never fool me again
-Last Christmas…
-A face on a lover, with a fire in her heart
-A girl under cover but you tore me apart
-Maybe next year I’ll give it to someone
-Give it to someone special
-Oooh…
+        But the very next day you gave it away
+        This year, to save me from tears
+        I’ll give it to someone special
+        Once bitten and twice shy
+        I keep my distance, but you still catch my eye
+        Tell me baby, do you recognise me? 
+        Well, it’s been a year, it doesn’t surprise me 
+        “Merry Christmas” I wrapped it up and sent it 
+        With a note saying “I love you”, I meant it 
+        Now I know what a fool I’ve been 
+        But if you kissed me now, I know you’d fool me again
+        Last Christmas…
+        A crowded room, friends with tired eyes
+        I’m hiding from you and your soul of ice
+        My god I thought you were someone to rely on
+        Me, I guess I was a shoulder to cry on
+        A face on a lover, with a fire in her heart
+        A girl under cover but you tore me apart
+        Now I’ve found a real love you’ll never fool me again
+        Last Christmas…
+        A face on a lover, with a fire in her heart
+        A girl under cover but you tore me apart
+        Maybe next year I’ll give it to someone
+        Give it to someone special
+        Oooh…
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -6.49 dB
       REPLAYGAIN_TRACK_PEAK: 0.89196777
@@ -393621,63 +393792,63 @@ Oooh…
         GBCSG2000038
       UNSYNCEDLYRICS: |
         Hello there! I got a letter in the post
-Addressed to the previous owner
-I don’t  know how to pronounce their name
-I don’t think they were from round here, you know
-Well, I just moved into the area, yeah
-That big old thing over the road
-It’s a fixer upper though, it’s a fixer upper so
-We’re gonna put poundshop terracotta frogs everywhere
-And wrap solar power fairy lights round the gutter
-Got a prosecco o’clock poster half price in Ikea
-Goes nicely with the existential fear I feel 
-When I accidentally stop and wonder 
-What I’m really doing here, and how long i’ve got left before i’m six feet under  
-
-Can’t believe I’m a two homeowner… 
-Finally I’m a two homeowner… 
-The driveways paved with cotswold stone
-I got off street parking for the rover, 
-It’s a fixer upper, yeah, no, not the rover, the rover’s golden
-I’m talking about that big old thing over the road
-Yeah that big old thing over the road!
-Gonna knock through the kitchen wall though, Yeah, I know it’s grade 2 Tudor architecture
-But we’re gonna absolutely ruin it all alright? Can’t stand old shite
-
-It’s a fixer upper! It’s a fixer upper! It’s a fixer upper! It’s a fixer upper!
-
-Anyway, this letter, I’ll just post it back ‘return to sender’
-Unless you know him, I think…
-I think he’s called J… Mr. J Konopinski.
-Oh no wait, that’s not an M that’s a D,
-Dr J. Konopinski, do you know him? 
-Sounds a bit Russian to me… Oh! He was Polish was he? I see, 
-And he had a PhD did he? What in? 
-Probably one of those pointless media degrees, not for me
-University of life ya see, got a thick skin
-School of hard knocks, gonna knock through that wall tuesday 
-Just in case you or the wife are gonna be in  
-
-a fixer upper! It’s a fixer upper! It’s a fixer upper! It’s a fixer upper!
-
-Alright mate, sorry about all the commotion yesterday
-The bloody builders are refusing to finish the job until I pay em, 
-But I told em, no one pulls a fast one on Graham
-I’m Graham by the way, don’t know if I mentioned 
-I told ‘em, I’m not made of money, you’re having a laugh
-Two homes and a rover, comes from hard graft 
-I’m not minted, I earnt it, It’s not some funny voodoo business
-I didn’t walk on gilded splinters to make the dent I did in under a year 
-I earnt it, Incase you’re wondering
-And as for the builders...
-Yeah they’re polish, I’m not bothered about that
-But where you come from, it says alot about a man
-Like, I’m not from around here, but I am
-And, they won’t take cash in hand
-What’s with that? Maybe they wouldn’t need the money so fast
-If they weren’t willingly giving it all to the tax man
-You take what you can get where I’m from
-And I’m not from round here, but I am
+        Addressed to the previous owner
+        I don’t  know how to pronounce their name
+        I don’t think they were from round here, you know
+        Well, I just moved into the area, yeah
+        That big old thing over the road
+        It’s a fixer upper though, it’s a fixer upper so
+        We’re gonna put poundshop terracotta frogs everywhere
+        And wrap solar power fairy lights round the gutter
+        Got a prosecco o’clock poster half price in Ikea
+        Goes nicely with the existential fear I feel 
+        When I accidentally stop and wonder 
+        What I’m really doing here, and how long i’ve got left before i’m six feet under  
+        
+        Can’t believe I’m a two homeowner… 
+        Finally I’m a two homeowner… 
+        The driveways paved with cotswold stone
+        I got off street parking for the rover, 
+        It’s a fixer upper, yeah, no, not the rover, the rover’s golden
+        I’m talking about that big old thing over the road
+        Yeah that big old thing over the road!
+        Gonna knock through the kitchen wall though, Yeah, I know it’s grade 2 Tudor architecture
+        But we’re gonna absolutely ruin it all alright? Can’t stand old shite
+        
+        It’s a fixer upper! It’s a fixer upper! It’s a fixer upper! It’s a fixer upper!
+        
+        Anyway, this letter, I’ll just post it back ‘return to sender’
+        Unless you know him, I think…
+        I think he’s called J… Mr. J Konopinski.
+        Oh no wait, that’s not an M that’s a D,
+        Dr J. Konopinski, do you know him? 
+        Sounds a bit Russian to me… Oh! He was Polish was he? I see, 
+        And he had a PhD did he? What in? 
+        Probably one of those pointless media degrees, not for me
+        University of life ya see, got a thick skin
+        School of hard knocks, gonna knock through that wall tuesday 
+        Just in case you or the wife are gonna be in  
+        
+        a fixer upper! It’s a fixer upper! It’s a fixer upper! It’s a fixer upper!
+        
+        Alright mate, sorry about all the commotion yesterday
+        The bloody builders are refusing to finish the job until I pay em, 
+        But I told em, no one pulls a fast one on Graham
+        I’m Graham by the way, don’t know if I mentioned 
+        I told ‘em, I’m not made of money, you’re having a laugh
+        Two homes and a rover, comes from hard graft 
+        I’m not minted, I earnt it, It’s not some funny voodoo business
+        I didn’t walk on gilded splinters to make the dent I did in under a year 
+        I earnt it, Incase you’re wondering
+        And as for the builders...
+        Yeah they’re polish, I’m not bothered about that
+        But where you come from, it says alot about a man
+        Like, I’m not from around here, but I am
+        And, they won’t take cash in hand
+        What’s with that? Maybe they wouldn’t need the money so fast
+        If they weren’t willingly giving it all to the tax man
+        You take what you can get where I’m from
+        And I’m not from round here, but I am
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -8.19 dB
       REPLAYGAIN_TRACK_PEAK: 1.00000000
@@ -393694,53 +393865,53 @@ And I’m not from round here, but I am
         GBCSG2000118
       UNSYNCEDLYRICS: |
         What a day to be alive! 
-The state of everything
-I know you saw the sign (in the window)
-The braying fist on hollow wood
-Sticky fingers on sugar glass
-Are you really so? (desperate desperate desperate)
-All that divides us is evil/ All that unites us is evil
-No, all that really divides is the binary hive mind
-And the restraint that it takes, not to stick ourselves
-Into every abstract object on the gallery shelves
- 
-Then the trapper came around
-He was trying to sell me pelts
-It was midday on a Monday
-So all the smart people were at work
-Trap music blaring from his furry boombox
-The trapper tripped, I laughed he flipped, said
-SHUT YOUR FUCKING TRAP
-Or I’ll eradicate nature, right now forever
-Or I’ll eradicate nature, right now forever
-So I bought all his pelts (all his pelts!)
-At a bulk buy discount
- 
-I took out a small business loan
-And I bought all his pelts
-I threw them in the boot of my car and drove downtown
-I pitched up a stall, outside the office blocks
-And come five o’clock, it was so cold
-That everybody needed one, everybody wanted two
-So I upped the price and I bled them dry cuz that’s what you do
-And come six o’clock, I’d oversold
-And my smile was made of solid gold
- 
-I collapsed under the weight of my own success (Yes)
- 
-And driving away with my many grapes, my many women
-And my ginormous mountain of never ending blow
-I saw the trapper disappear from my rear view mirror
-With no pelts to call his own,
-Shivering, naked and all alone… In the snow
- 
-The senseless charm, the gnawing guilt (THE TRAPPER’S PELTS, THE TRAPPER’S PELTS!)
-The senseless charm, the gnawing guilt (THE TRAPPER’S PELTS, THE TRAPPER’S PELTS!)
-The senseless charm, the gnawing guilt (THE TRAPPER’S PELTS, THE TRAPPER’S PELTS!)
-The senseless charm, the gnawing guilt (THE TRAPPER’S PELTS, THE TRAPPER’S PELTS!)
- 
-H.M.R.C 
-Pay as you feel
+        The state of everything
+        I know you saw the sign (in the window)
+        The braying fist on hollow wood
+        Sticky fingers on sugar glass
+        Are you really so? (desperate desperate desperate)
+        All that divides us is evil/ All that unites us is evil
+        No, all that really divides is the binary hive mind
+        And the restraint that it takes, not to stick ourselves
+        Into every abstract object on the gallery shelves
+         
+        Then the trapper came around
+        He was trying to sell me pelts
+        It was midday on a Monday
+        So all the smart people were at work
+        Trap music blaring from his furry boombox
+        The trapper tripped, I laughed he flipped, said
+        SHUT YOUR FUCKING TRAP
+        Or I’ll eradicate nature, right now forever
+        Or I’ll eradicate nature, right now forever
+        So I bought all his pelts (all his pelts!)
+        At a bulk buy discount
+         
+        I took out a small business loan
+        And I bought all his pelts
+        I threw them in the boot of my car and drove downtown
+        I pitched up a stall, outside the office blocks
+        And come five o’clock, it was so cold
+        That everybody needed one, everybody wanted two
+        So I upped the price and I bled them dry cuz that’s what you do
+        And come six o’clock, I’d oversold
+        And my smile was made of solid gold
+         
+        I collapsed under the weight of my own success (Yes)
+         
+        And driving away with my many grapes, my many women
+        And my ginormous mountain of never ending blow
+        I saw the trapper disappear from my rear view mirror
+        With no pelts to call his own,
+        Shivering, naked and all alone… In the snow
+         
+        The senseless charm, the gnawing guilt (THE TRAPPER’S PELTS, THE TRAPPER’S PELTS!)
+        The senseless charm, the gnawing guilt (THE TRAPPER’S PELTS, THE TRAPPER’S PELTS!)
+        The senseless charm, the gnawing guilt (THE TRAPPER’S PELTS, THE TRAPPER’S PELTS!)
+        The senseless charm, the gnawing guilt (THE TRAPPER’S PELTS, THE TRAPPER’S PELTS!)
+         
+        H.M.R.C 
+        Pay as you feel
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -8.12 dB
       REPLAYGAIN_TRACK_PEAK: 0.99050963
