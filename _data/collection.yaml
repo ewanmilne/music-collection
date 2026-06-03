@@ -514,7 +514,7 @@
     PURCHASEDATE: 2023-06-16
     RELEASETYPE: single
     Tracks:
-    - TITLE: "Language (12"" Version)"
+    - TITLE: "Language (12\" Version)"
       DISCNUMBER: 1
       TRACKNUMBER: 1
       ARTIST: "23 Skidoo"
@@ -525,7 +525,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.96640015
       BITDEPTH: 16
       LENGTH: 338
-    - TITLE: "Language (12"" Dub)"
+    - TITLE: "Language (12\" Dub)"
       DISCNUMBER: 1
       TRACKNUMBER: 2
       ARTIST: "23 Skidoo"
@@ -632,7 +632,7 @@
       REPLAYGAIN_ALBUM_PEAK: 1.00000000
       BITDEPTH: 16
       LENGTH: 323
-    - TITLE: "Last Words  (7"" Edit)"
+    - TITLE: "Last Words  (7\" Edit)"
       DISCNUMBER: 1
       TRACKNUMBER: 9
       ARTIST: "23 Skidoo"
@@ -6818,7 +6818,8 @@
   - ALBUM: "Alina"
     DATE: 1999
     COPYRIGHT: "℗ 1996 ECM Records GmbH, under exclusive license to Universal Music Classics & Jazz - a division of Universal Music GmbH"
-    DESCRIPTION: "Label : ECM New Series - Universal Music"
+    DESCRIPTION: "Label : ECM New Series - Universal Music
+"
     GENRE: Modern Classical
     MEDIA: qobuz.com
     PURCHASEDATE: 2022-11-23
@@ -7847,7 +7848,7 @@
     - TITLE: "(If Paradise Is) Half as Nice"
       TRACKNUMBER: 12
       ARTIST: "Aztec Camera"
-      COMMENT: "Bonus track on 2012 Edsel reissue. Originally released on the NME ""Ruby Trax"" compilation, 1992."
+      COMMENT: "Bonus track on 2012 Edsel reissue. Originally released on the NME \"Ruby Trax\" compilation, 1992."
       COMPOSER: "Lucio Battisti"
       ENCODER: X Lossless Decoder 20240511
       ISRC: GBAHT1200350
@@ -8879,7 +8880,8 @@
   - ALBUM: "Bang on a Can All-Stars : Terry Riley: In C"
     DATE: 2011
     COPYRIGHT: "Cantaloupe Music"
-    DESCRIPTION: "Label : Cantaloupe Music - Naxos of America"
+    DESCRIPTION: "Label : Cantaloupe Music - Naxos of America
+"
     GENRE: Modern Classical
     MEDIA: qobuz.com
     PURCHASEDATE: 2023-04-18
@@ -15907,7 +15909,7 @@
 
   - ALBUM: "Talking with the Taxman About Poetry"
     DATE: 1986
-    DESCRIPTION: "Ripped from ""Victim Of Geography"" compilation CD."
+    DESCRIPTION: "Ripped from \"Victim Of Geography\" compilation CD."
     GENRE: Alternative
     MEDIA: CD
     Tracks:
@@ -22475,7 +22477,7 @@
       BITDEPTH: 16
       LENGTH: 253
 
-  - ALBUM: """Love and Theft"""
+  - ALBUM: \""Love and Theft\""
     DATE: 2004-03-29
     GENRE: Rock
     MEDIA: CD
@@ -36715,7 +36717,7 @@
   ALBUMARTISTSORT: "Bowie, David"
   Albums:
 
-  - ALBUM: """Heroes"""
+  - ALBUM: \""Heroes\""
     DATE: 1977-10
     GENRE: Alternative
     MEDIA: CD
@@ -37564,7 +37566,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.99218750
       BITDEPTH: 16
       LENGTH: 185
-    - TITLE: """Heroes"" (single version)"
+    - TITLE: \""Heroes\" (single version)"
       DISCNUMBER: 2
       TRACKNUMBER: 2
       ARTIST: "David Bowie"
@@ -38816,7 +38818,7 @@
       TRACKNUMBER: 1
       ARTIST: "David Bowie"
       ARTISTSORT: "Bowie, David"
-      COMMENT: " Sourced from ""New Career in a New Town (1977 - 1982)"" box-set"
+      COMMENT: " Sourced from \"New Career in a New Town (1977 - 1982)\" box-set"
       ISRC: USJT11600343
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -1.61 dB
@@ -40589,7 +40591,8 @@
     DATE: 1979
     COPYRIGHT: "2009 Parlophone Records Ltd, a Warner Music Group Company"
     DESCRIPTION: "2009 Remastered VersionInterprètes : Tony Visconti, Producer
-      Label : EMI - Warner"
+      Label : EMI - Warner
+"
     GENRE: Alternative
     MEDIA: qobuz.com
     PURCHASEDATE: 2016-02-15
@@ -44798,7 +44801,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.99887085
       BITDEPTH: 16
       LENGTH: 953
-    - TITLE: "Je T'Aime (Moi Non Plus)  - 12"" Version"
+    - TITLE: "Je T'Aime (Moi Non Plus)  - 12\" Version"
       DISCNUMBER: 2
       TRACKNUMBER: 2
       ARTIST: "Donna Summer"
@@ -44840,7 +44843,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.99887085
       BITDEPTH: 16
       LENGTH: 1055
-    - TITLE: "No More Tears (Enough Is Enough) - 12"" Version feat. Barbra Streisand"
+    - TITLE: "No More Tears (Enough Is Enough) - 12\" Version feat. Barbra Streisand"
       DISCNUMBER: 2
       TRACKNUMBER: 5
       ARTIST: "Donna Summer"
@@ -55321,7 +55324,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.98855591
       BITDEPTH: 16
       LENGTH: 193
-    - TITLE: """The Lord Is In This Place, How Dreadful Is This Place?"""
+    - TITLE: \""The Lord Is In This Place, How Dreadful Is This Place?\""
       TRACKNUMBER: 4
       ARTIST: "Fairport Convention"
       ENCODER: X Lossless Decoder 20140504
@@ -60415,7 +60418,8 @@
   - ALBUM: "Jesus' Blood Never Failed Me Yet"
     DATE: 2016
     COPYRIGHT: "2015 GB Records / Zaleski Enterprises"
-    DESCRIPTION: "Label : GB Records - IIP-DDS"
+    DESCRIPTION: "Label : GB Records - IIP-DDS
+"
     GENRE: Modern Classical
     MEDIA: qobuz.com
     PURCHASEDATE: 2022-07-30
@@ -63281,7 +63285,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.94775391
       BITDEPTH: 16
       LENGTH: 358
-    - TITLE: """Government Came"" (9980.0kHz 3617.1kHz 4521.0 kHz) / Cliffs Gaze / cliffs' gaze at empty waters' rise / Ashes to Sea or Nearer to Thee"
+    - TITLE: \""Government Came\" (9980.0kHz 3617.1kHz 4521.0 kHz) / Cliffs Gaze / cliffs' gaze at empty waters' rise / Ashes to Sea or Nearer to Thee"
       TRACKNUMBER: 3
       ARTIST: "Godspeed You! Black Emperor"
       ARTISTSORT: "Godspeed You! Black Emperor"
@@ -70341,7 +70345,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.99996948
       BITDEPTH: 16
       LENGTH: 166
-    - TITLE: "Reasons to Be Cheerful, Part 3 (12"" version)"
+    - TITLE: "Reasons to Be Cheerful, Part 3 (12\" version)"
       TRACKNUMBER: 17
       ARTIST: "Ian Dury and the Blockheads"
       ARTISTSORT: "Dury, Ian and the Blockheads"
@@ -77437,7 +77441,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.99880981
       BITDEPTH: 16
       LENGTH: 227
-    - TITLE: "Quiet Life (7"" version)"
+    - TITLE: "Quiet Life (7\" version)"
       TRACKNUMBER: 3
       ARTIST: "Japan"
       COMPOSER: "David Sylvian"
@@ -77566,7 +77570,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.99880981
       BITDEPTH: 16
       LENGTH: 416
-    - TITLE: "All Tomorrow's Parties (7"" version)"
+    - TITLE: "All Tomorrow's Parties (7\" version)"
       TRACKNUMBER: 13
       ARTIST: "Japan"
       COMPOSER: "Lou Reed"
@@ -79030,7 +79034,8 @@
   - ALBUM: "Minimal Piano Collection"
     DATE: 2007
     COPYRIGHT: "Brilliant Classics"
-    DESCRIPTION: "Label : Brilliant Classics - Kontor"
+    DESCRIPTION: "Label : Brilliant Classics - Kontor
+"
     GENRE: Modern Classical
     MEDIA: qobuz.com
     PURCHASEDATE: 2018-12-03
@@ -80130,12 +80135,12 @@
   ALBUMARTISTSORT: "Adams, John, Corigliano John; Hanslip, Chloë, Royal Philharmonic Orchestra, Slatkin, Leonard"
   Albums:
 
-  - ALBUM: "Adams: Violin Concerto / Corigliano: Red Violin ""Chaconne"""
+  - ALBUM: "Adams: Violin Concerto / Corigliano: Red Violin \"Chaconne\""
     DATE: 2006
     GENRE: Modern Classical
     MEDIA: CD
     Tracks:
-    - TITLE: "Chaconne from ""The Red Violin"""
+    - TITLE: "Chaconne from \"The Red Violin\""
       TRACKNUMBER: 1
       ARTIST: "John Corigliano"
       ARTISTSORT: "Corigliano, John"
@@ -88388,7 +88393,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.97723389
       BITDEPTH: 16
       LENGTH: 334
-    - TITLE: "It's Grim Up North (12"" A Side)"
+    - TITLE: "It's Grim Up North (12\" A Side)"
       TRACKNUMBER: 5
       ARTIST: "The Justified Ancients of Mu Mu"
       ISRC: GBCEL2100243
@@ -88399,7 +88404,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.97723389
       BITDEPTH: 16
       LENGTH: 632
-    - TITLE: "America: What Time Is Love? (12"" A Side)"
+    - TITLE: "America: What Time Is Love? (12\" A Side)"
       TRACKNUMBER: 6
       ARTIST: "The KLF"
       ISRC: GBCEL2100244
@@ -88410,7 +88415,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.97723389
       BITDEPTH: 16
       LENGTH: 541
-    - TITLE: "Justified & Ancient (Make Mine a 99 (12"" A Side))"
+    - TITLE: "Justified & Ancient (Make Mine a 99 (12\" A Side))"
       TRACKNUMBER: 7
       ARTIST: "The KLF"
       ISRC: GBCEL2100245
@@ -88421,7 +88426,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.97723389
       BITDEPTH: 16
       LENGTH: 331
-    - TITLE: "America No More (12"" B Side)"
+    - TITLE: "America No More (12\" B Side)"
       TRACKNUMBER: 8
       ARTIST: "The KLF"
       ISRC: GBCEL2100246
@@ -88432,7 +88437,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.97723389
       BITDEPTH: 16
       LENGTH: 362
-    - TITLE: "K Cera Cera (War Is Over If You Want It) (12"" A Side)"
+    - TITLE: "K Cera Cera (War Is Over If You Want It) (12\" A Side)"
       TRACKNUMBER: 9
       ARTIST: "K Foundation, The Alexandrov Red Army Chorus"
       ISRC: GBCEL2100247
@@ -108793,7 +108798,7 @@
       REPLAYGAIN_ALBUM_PEAK: 1.00000000
       BITDEPTH: 16
       LENGTH: 337
-    - TITLE: "In the Air (12"" Mix)"
+    - TITLE: "In the Air (12\" Mix)"
       TRACKNUMBER: 3
       ARTIST: "Maximum Joy"
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
@@ -108823,7 +108828,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.98452652
       BITDEPTH: 24
       LENGTH: 285
-    - TITLE: "Stretch (7 "" Version)"
+    - TITLE: "Stretch (7 \" Version)"
       TRACKNUMBER: 6
       ARTIST: "Maximum Joy"
       ARTISTSORT: "Maximum Joy"
@@ -109048,7 +109053,8 @@
   - ALBUM: "Maya Beiser x Philip Glass"
     DATE: 2021
     COPYRIGHT: "(P) 2021 Islandia Music"
-    DESCRIPTION: "Label : Islandia Music - Naxos of America"
+    DESCRIPTION: "Label : Islandia Music - Naxos of America
+"
     GENRE: Modern Classical
     MEDIA: qobuz.com
     PURCHASEDATE: 2023-04-11
@@ -109107,7 +109113,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.89236450
       BITDEPTH: 16
       LENGTH: 652
-    - TITLE: "Naqoyqatsi (From ""Naqoyqatsi"") [Arr. M. Beiser for Cello]"
+    - TITLE: "Naqoyqatsi (From \"Naqoyqatsi\") [Arr. M. Beiser for Cello]"
       DISCNUMBER: 1
       TRACKNUMBER: 5
       ARTIST: "Maya Beiser"
@@ -109120,7 +109126,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.89236450
       BITDEPTH: 16
       LENGTH: 312
-    - TITLE: "Massman (From ""Naqoyqatsi"") [Arr. M. Beiser for Cello]"
+    - TITLE: "Massman (From \"Naqoyqatsi\") [Arr. M. Beiser for Cello]"
       DISCNUMBER: 1
       TRACKNUMBER: 6
       ARTIST: "Maya Beiser"
@@ -109133,7 +109139,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.89236450
       BITDEPTH: 16
       LENGTH: 422
-    - TITLE: "New World (From ""Naqoyqatsi"") [Arr. M. Beiser for Cello]"
+    - TITLE: "New World (From \"Naqoyqatsi\") [Arr. M. Beiser for Cello]"
       DISCNUMBER: 1
       TRACKNUMBER: 7
       ARTIST: "Maya Beiser"
@@ -109146,7 +109152,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.89236450
       BITDEPTH: 16
       LENGTH: 246
-    - TITLE: "Old World (From ""Naqoyqatsi"") [Arr. M. Beiser for Cello]"
+    - TITLE: "Old World (From \"Naqoyqatsi\") [Arr. M. Beiser for Cello]"
       DISCNUMBER: 1
       TRACKNUMBER: 8
       ARTIST: "Maya Beiser"
@@ -115239,7 +115245,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.89282227
       BITDEPTH: 16
       LENGTH: 53
-    - TITLE: "Llamas (Including ""Granada"")"
+    - TITLE: "Llamas (Including \"Granada\")"
       TRACKNUMBER: 2
       ARTIST: "Monty Python"
       ENCODER: X Lossless Decoder 20191004
@@ -115437,7 +115443,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.89282227
       BITDEPTH: 16
       LENGTH: 157
-    - TITLE: "Theme Song ""Liberty Bell"""
+    - TITLE: "Theme Song \"Liberty Bell\""
       TRACKNUMBER: 20
       ARTIST: "Monty Python"
       ENCODER: X Lossless Decoder 20191004
@@ -115459,7 +115465,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.89282227
       BITDEPTH: 16
       LENGTH: 345
-    - TITLE: "Theme Song ""Liberty Bell"""
+    - TITLE: "Theme Song \"Liberty Bell\""
       TRACKNUMBER: 22
       ARTIST: "Monty Python"
       ENCODER: X Lossless Decoder 20191004
@@ -123409,7 +123415,7 @@
     PURCHASEDATE: 2015-03-26
     RELEASETYPE: compilation
     Tracks:
-    - TITLE: "Ceremony (original 7"" recording)"
+    - TITLE: "Ceremony (original 7\" recording)"
       DISCNUMBER: 1
       TRACKNUMBER: 1
       ARTIST: "New Order"
@@ -123420,7 +123426,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.70718384
       BITDEPTH: 16
       LENGTH: 278
-    - TITLE: "Temptation (7"" Edit)"
+    - TITLE: "Temptation (7\" Edit)"
       DISCNUMBER: 1
       TRACKNUMBER: 4
       ARTIST: "New Order"
@@ -124471,7 +124477,7 @@
     PURCHASEDATE: 2019-09-06
     RELEASETYPE: single
     Tracks:
-    - TITLE: "Temptation (12"" edit)"
+    - TITLE: "Temptation (12\" edit)"
       DISCNUMBER: 1
       TRACKNUMBER: 1
       ARTIST: "New Order"
@@ -125469,7 +125475,7 @@
       TRACKNUMBER: 1
       ARTIST: "Nick Cave and the Bad Seeds"
       ARTISTSORT: "Cave, Nick and the Bad Seeds"
-      COMPOSER: "John ""Rabbit"" Bundrick"
+      COMPOSER: "John \"Rabbit\" Bundrick"
       ENCODER: X Lossless Decoder 20230627
       ISRC: GBAJH0900039
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
@@ -133438,7 +133444,7 @@
       REPLAYGAIN_ALBUM_PEAK: 1.00000000
       BITDEPTH: 16
       LENGTH: 198
-    - TITLE: "The Story of ""Graceland"" as told by Paul Simon"
+    - TITLE: "The Story of \"Graceland\" as told by Paul Simon"
       TRACKNUMBER: 15
       ARTIST: "Paul Simon"
       ARTISTSORT: "Simon, Paul"
@@ -159724,7 +159730,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.99993896
       BITDEPTH: 16
       LENGTH: 133
-    - TITLE: "Qui est ""In"" qui est ""Out"""
+    - TITLE: "Qui est \"In\" qui est \"Out\""
       TRACKNUMBER: 6
       ARTIST: "Serge Gainsbourg"
       ARTISTSORT: "Gainsbourg, Serge"
@@ -166986,7 +166992,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.98852539
       BITDEPTH: 16
       LENGTH: 209
-    - TITLE: "When Do I Get to Sing ""My Way"""
+    - TITLE: "When Do I Get to Sing \"My Way\""
       DISCNUMBER: 2
       TRACKNUMBER: 8
       ARTIST: "Sparks"
@@ -170987,7 +170993,7 @@
       BITDEPTH: 16
       LENGTH: 234
 
-  - ALBUM: "The Groop Played ""Space Age Batchelor Pad Music"""
+  - ALBUM: "The Groop Played \"Space Age Batchelor Pad Music\""
     DATE: 1993-03
     GENRE: Alternative
     MEDIA: CD
@@ -171455,7 +171461,8 @@
   - ALBUM: "Early Works"
     DATE: 2005
     COPYRIGHT: "1987 Nonesuch Records"
-    DESCRIPTION: "Label : Rhino Records - Nonesuch - Warner"
+    DESCRIPTION: "Label : Rhino Records - Nonesuch - Warner
+"
     GENRE: Modern Classical
     MEDIA: qobuz.com
     PURCHASEDATE: 2014-05-03
@@ -172085,7 +172092,8 @@
   - ALBUM: "Proverb / Nagoya Marimba / City Life"
     DATE: 2005
     COPYRIGHT: "2005 Nonesuch Records  Manufactured & Marketed by Rhino Entertainment"
-    DESCRIPTION: "Label : Rhino Records - Nonesuch - Warner"
+    DESCRIPTION: "Label : Rhino Records - Nonesuch - Warner
+"
     GENRE: Modern Classical
     MEDIA: qobuz.com
     PURCHASEDATE: 2016-10-24
@@ -174765,7 +174773,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.98754883
       BITDEPTH: 16
       LENGTH: 203
-    - TITLE: "The perpetual self, or ""What would Saul Alinsky do?"""
+    - TITLE: "The perpetual self, or \"What would Saul Alinsky do?\""
       TRACKNUMBER: 17
       ARTIST: "Sufjan Stevens"
       ARTISTSORT: "Stevens, Sufjan"
@@ -179053,7 +179061,8 @@
   - ALBUM: "In C"
     DATE: 1968
     COPYRIGHT: "Originally released 1968 Sony Music Entertainment"
-    DESCRIPTION: "Label : Sony Classical - Sony"
+    DESCRIPTION: "Label : Sony Classical - Sony
+"
     GENRE: Modern Classical
     MEDIA: qobuz.com
     PURCHASEDATE: 2016-05-16
@@ -179079,7 +179088,8 @@
   - ALBUM: "One Earth, One People, One Love: Kronos Plays Terry Riley"
     DATE: 2015
     COPYRIGHT: "2015 Nonesuch Records Inc."
-    DESCRIPTION: "Label : Nonesuch - Warner"
+    DESCRIPTION: "Label : Nonesuch - Warner
+"
     GENRE: Modern Classical
     MEDIA: qobuz.com
     PURCHASEDATE: 2016-05-16
@@ -181879,7 +181889,7 @@
       REPLAYGAIN_ALBUM_PEAK: 1.00000000
       BITDEPTH: 16
       LENGTH: 264
-    - TITLE: """We Were Four Guys ... That's All"" [Speech: John Lennon, Interview 1970]"
+    - TITLE: \""We Were Four Guys ... That's All\" [Speech: John Lennon, Interview 1970]"
       DISCNUMBER: 1
       TRACKNUMBER: 2
       ARTIST: "The Beatles"
@@ -181915,7 +181925,7 @@
       REPLAYGAIN_ALBUM_PEAK: 1.00000000
       BITDEPTH: 16
       LENGTH: 164
-    - TITLE: """Sometimes I'd Borrow ... Those Still Exist"" [Speech: Paul McCartney, Interview 1994]"
+    - TITLE: \""Sometimes I'd Borrow ... Those Still Exist\" [Speech: Paul McCartney, Interview 1994]"
       DISCNUMBER: 1
       TRACKNUMBER: 5
       ARTIST: "The Beatles"
@@ -181963,7 +181973,7 @@
       REPLAYGAIN_ALBUM_PEAK: 1.00000000
       BITDEPTH: 16
       LENGTH: 73
-    - TITLE: """First Of All ... It Didn't Do A Thing Here"" [Speech: Paul McCartney, Interview 1962]"
+    - TITLE: \""First Of All ... It Didn't Do A Thing Here\" [Speech: Paul McCartney, Interview 1962]"
       DISCNUMBER: 1
       TRACKNUMBER: 9
       ARTIST: "The Beatles"
@@ -182011,7 +182021,7 @@
       REPLAYGAIN_ALBUM_PEAK: 1.00000000
       BITDEPTH: 16
       LENGTH: 142
-    - TITLE: """Brian Was A Beautiful Guy ... He Presented Us Well"" [Speech: John Lennon, Interview 1971]"
+    - TITLE: \""Brian Was A Beautiful Guy ... He Presented Us Well\" [Speech: John Lennon, Interview 1971]"
       DISCNUMBER: 1
       TRACKNUMBER: 13
       ARTIST: "The Beatles"
@@ -182023,7 +182033,7 @@
       REPLAYGAIN_ALBUM_PEAK: 1.00000000
       BITDEPTH: 16
       LENGTH: 10
-    - TITLE: """I Secured Them ... A Beatle Drink Even Then"" [Speech: Brian Epstein, Interview 1964]"
+    - TITLE: \""I Secured Them ... A Beatle Drink Even Then\" [Speech: Brian Epstein, Interview 1964]"
       DISCNUMBER: 1
       TRACKNUMBER: 14
       ARTIST: "The Beatles"
@@ -182095,7 +182105,7 @@
       REPLAYGAIN_ALBUM_PEAK: 1.00000000
       BITDEPTH: 16
       LENGTH: 100
-    - TITLE: """Well, The Recording Test ... By My Artists"" [Speech: Brian Epstein, Interview 1964]"
+    - TITLE: \""Well, The Recording Test ... By My Artists\" [Speech: Brian Epstein, Interview 1964]"
       DISCNUMBER: 1
       TRACKNUMBER: 20
       ARTIST: "The Beatles"
@@ -182203,7 +182213,7 @@
       REPLAYGAIN_ALBUM_PEAK: 1.00000000
       BITDEPTH: 16
       LENGTH: 128
-    - TITLE: """We Were Performers ... In Britain"" [Speech: John Lennon, Interview 1970]"
+    - TITLE: \""We Were Performers ... In Britain\" [Speech: John Lennon, Interview 1970]"
       DISCNUMBER: 1
       TRACKNUMBER: 29
       ARTIST: "The Beatles"
@@ -188991,7 +189001,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.83694458
       BITDEPTH: 16
       LENGTH: 168
-    - TITLE: "6"" Gold Blade"
+    - TITLE: "6\" Gold Blade"
       TRACKNUMBER: 8
       ARTIST: "The Birthday Party"
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
@@ -193159,7 +193169,7 @@
     DATE: 1969
     MEDIA: CD
     Tracks:
-    - TITLE: "Hunting Tigers in ""Indiah"""
+    - TITLE: "Hunting Tigers in \"Indiah\""
       TRACKNUMBER: 1
       ARTIST: "The Bonzo Dog Band"
       ENCODER: X Lossless Decoder 20120908
@@ -195929,7 +195939,7 @@
       DISCNUMBER: 2
       TRACKNUMBER: 2
       ARTIST: "The Clash"
-      COMPOSER: "Willi Williams, Clement ""Coxsone"" Dodd"
+      COMPOSER: "Willi Williams, Clement \"Coxsone\" Dodd"
       ENCODER: X Lossless Decoder 20140504
       ISRC: GBARL1201016
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
@@ -197682,7 +197692,7 @@
 
   - ALBUM: "Feast"
     DATE: 1983
-    DESCRIPTION: "Ripped from ""A Bestiary Of"" CD"
+    DESCRIPTION: "Ripped from \"A Bestiary Of\" CD"
     GENRE: Post-punk
     MEDIA: CD
     Tracks:
@@ -197808,7 +197818,7 @@
 
   - ALBUM: "Miss The Girl"
     DATE: 1983
-    DESCRIPTION: "Ripped from ""A Bestiary Of"" CD"
+    DESCRIPTION: "Ripped from \"A Bestiary Of\" CD"
     GENRE: Post-punk
     MEDIA: CD
     RELEASETYPE: single
@@ -197859,7 +197869,7 @@
 
   - ALBUM: "Wild Things"
     DATE: 1981
-    DESCRIPTION: "Ripped from ""A Bestiary Of"" CD"
+    DESCRIPTION: "Ripped from \"A Bestiary Of\" CD"
     GENRE: Post-punk
     MEDIA: CD
     RELEASETYPE: EP
@@ -208731,7 +208741,7 @@
       REPLAYGAIN_ALBUM_PEAK: 1.00000000
       BITDEPTH: 16
       LENGTH: 176
-    - TITLE: """A"" Bomb in Wardour Street"
+    - TITLE: \""A\" Bomb in Wardour Street"
       TRACKNUMBER: 6
       ARTIST: "The Jam"
       ENCODER: X Lossless Decoder 20140504
@@ -214901,7 +214911,7 @@
     MEDIA: qobuz.com
     PURCHASEDATE: 2023-09-27
     Tracks:
-    - TITLE: "Bring It Down! (This Insane Thing)   (7"" More FX Mix)"
+    - TITLE: "Bring It Down! (This Insane Thing)   (7\" More FX Mix)"
       TRACKNUMBER: 1
       ARTIST: "The Redskins"
       COMPOSER: "Chris Dean"
@@ -214925,7 +214935,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.96609497
       BITDEPTH: 16
       LENGTH: 218
-    - TITLE: "Bring It Down! (This Insane Thing)  (12"" Version)"
+    - TITLE: "Bring It Down! (This Insane Thing)  (12\" Version)"
       TRACKNUMBER: 3
       ARTIST: "The Redskins"
       COMPOSER: "Chris Dean"
@@ -215094,7 +215104,7 @@
       REPLAYGAIN_ALBUM_PEAK: 1.00000000
       BITDEPTH: 16
       LENGTH: 407
-    - TITLE: "Keep On Keepin' On  (Ted De Bono 12"" Mix)"
+    - TITLE: "Keep On Keepin' On  (Ted De Bono 12\" Mix)"
       TRACKNUMBER: 12
       ARTIST: "The Redskins"
       COMPOSER: "Dea'n"
@@ -217064,7 +217074,8 @@
   - ALBUM: "The Salt Lake Electric Ensemble Perform Terry Riley's In C"
     DATE: 2010
     COPYRIGHT: "2010 Salt Lake Electric Ensemble"
-    DESCRIPTION: "Label : Crescent Phase - CD Baby"
+    DESCRIPTION: "Label : Crescent Phase - CD Baby
+"
     GENRE: Modern Classical
     MEDIA: qobuz.com
     PURCHASEDATE: 2020-01-30
@@ -217430,7 +217441,7 @@
     PURCHASEDATE: 2023-04-11
     RELEASETYPE: single
     Tracks:
-    - TITLE: "Earthbeat (7"" Version)"
+    - TITLE: "Earthbeat (7\" Version)"
       DISCNUMBER: 1
       TRACKNUMBER: 1
       ARTIST: "The Slits"
@@ -219316,7 +219327,7 @@
       REPLAYGAIN_ALBUM_PEAK: 1.00000000
       BITDEPTH: 16
       LENGTH: 132
-    - TITLE: "How Soon Is Now? [12"" Version]"
+    - TITLE: "How Soon Is Now? [12\" Version]"
       DISCNUMBER: 1
       TRACKNUMBER: 7
       ARTIST: "The Smiths"
@@ -219355,7 +219366,7 @@
       REPLAYGAIN_ALBUM_PEAK: 1.00000000
       BITDEPTH: 16
       LENGTH: 129
-    - TITLE: "Barbarism Begins At Home [7"" Version]"
+    - TITLE: "Barbarism Begins At Home [7\" Version]"
       DISCNUMBER: 1
       TRACKNUMBER: 10
       ARTIST: "The Smiths"
@@ -221879,7 +221890,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.97973633
       BITDEPTH: 16
       LENGTH: 229
-    - TITLE: "Uncertain Smile (12"" Remix)"
+    - TITLE: "Uncertain Smile (12\" Remix)"
       DISCNUMBER: 2
       TRACKNUMBER: 1
       ARTIST: "The The"
@@ -221890,7 +221901,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.97973633
       BITDEPTH: 16
       LENGTH: 599
-    - TITLE: "Perfect (12"" Remix)"
+    - TITLE: "Perfect (12\" Remix)"
       DISCNUMBER: 2
       TRACKNUMBER: 2
       ARTIST: "The The"
@@ -250221,7 +250232,7 @@
       BITDEPTH: 16
       LENGTH: 191
 
-  - ALBUM: "12"" Dance: The Definitive Collection"
+  - ALBUM: "12\" Dance: The Definitive Collection"
     DATE: 2009-10-05
     COMPILATION: 1
     GENRE: Dance
@@ -250266,7 +250277,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.98858643
       BITDEPTH: 16
       LENGTH: 655
-    - TITLE: "He's the Greatest Dancer (12"" version)"
+    - TITLE: "He's the Greatest Dancer (12\" version)"
       DISCNUMBER: 1
       TRACKNUMBER: 4
       ARTIST: "Sister Sledge"
@@ -250344,7 +250355,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.98858643
       BITDEPTH: 16
       LENGTH: 494
-    - TITLE: "Blue Monday (12"" version)"
+    - TITLE: "Blue Monday (12\" version)"
       DISCNUMBER: 2
       TRACKNUMBER: 1
       ARTIST: "New Order"
@@ -250409,7 +250420,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.98858643
       BITDEPTH: 16
       LENGTH: 352
-    - TITLE: "Theme From S'Express (12"" version)"
+    - TITLE: "Theme From S'Express (12\" version)"
       DISCNUMBER: 2
       TRACKNUMBER: 6
       ARTIST: "S'Express"
@@ -250422,7 +250433,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.98858643
       BITDEPTH: 16
       LENGTH: 356
-    - TITLE: "Big Fun (original 12"" mix)"
+    - TITLE: "Big Fun (original 12\" mix)"
       DISCNUMBER: 2
       TRACKNUMBER: 7
       ARTIST: "Inner City"
@@ -250474,10 +250485,10 @@
       REPLAYGAIN_ALBUM_PEAK: 0.98858643
       BITDEPTH: 16
       LENGTH: 499
-    - TITLE: "Love Can't Turn Around (feat. Darryl Pandy) (12"" version)"
+    - TITLE: "Love Can't Turn Around (feat. Darryl Pandy) (12\" version)"
       DISCNUMBER: 2
       TRACKNUMBER: 11
-      ARTIST: "Farley ""Jackmaster"" Funk & Jesse Saunders"
+      ARTIST: "Farley \"Jackmaster\" Funk & Jesse Saunders"
       ENCODER: Max 0.9.1
       ISRC: GBBLG0100304
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
@@ -250487,7 +250498,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.98858643
       BITDEPTH: 16
       LENGTH: 424
-    - TITLE: "Killer (feat. Seal) (original 12"" version)"
+    - TITLE: "Killer (feat. Seal) (original 12\" version)"
       DISCNUMBER: 3
       TRACKNUMBER: 1
       ARTIST: "Adamski"
@@ -251291,7 +251302,7 @@
       DISCNUMBER: 2
       TRACKNUMBER: 08
       ARTIST: "Kool & The Gang"
-      COMPOSER: "Sandy Linzer/Curtis Fitzgerald Williams/Ronald Nathan Bell/Robert Earl ""Kool"" Bell/J.T. Taylor/Claydes Smith/James L. Bonnefond/George Brown"
+      COMPOSER: "Sandy Linzer/Curtis Fitzgerald Williams/Ronald Nathan Bell/Robert Earl \"Kool\" Bell/J.T. Taylor/Claydes Smith/James L. Bonnefond/George Brown"
       ISRC: USWWW0126697
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -4.69 dB
@@ -262195,7 +262206,7 @@
       LENGTH: 215
     - TITLE: "The Christmas Song"
       TRACKNUMBER: 17
-      ARTIST: "Nat ""King"" Cole"
+      ARTIST: "Nat \"King\" Cole"
       COMPOSER: "Mel Tormé"
       ENCODER: X Lossless Decoder 20210101
       ISRC: DEU240550116
@@ -281977,7 +281988,7 @@
       REPLAYGAIN_ALBUM_PEAK: 1.00000000
       BITDEPTH: 16
       LENGTH: 221
-    - TITLE: "Bonita Applebum (7"" Why? edit)"
+    - TITLE: "Bonita Applebum (7\" Why? edit)"
       TRACKNUMBER: 14
       ARTIST: "A Tribe Called Quest"
       ENCODER: X Lossless Decoder 20250302
@@ -284977,7 +284988,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.99575806
       BITDEPTH: 16
       LENGTH: 243
-    - TITLE: "Everybody Dance (12"" Disco Version)"
+    - TITLE: "Everybody Dance (12\" Disco Version)"
       DISCNUMBER: 1
       TRACKNUMBER: 4
       ARTIST: "Chic"
@@ -285001,7 +285012,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.99575806
       BITDEPTH: 16
       LENGTH: 487
-    - TITLE: "Spacer (12"" Version)"
+    - TITLE: "Spacer (12\" Version)"
       DISCNUMBER: 1
       TRACKNUMBER: 6
       ARTIST: "Sheila & B. Devotion"
@@ -285013,7 +285024,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.99575806
       BITDEPTH: 16
       LENGTH: 375
-    - TITLE: "I Want Your Love (12"" Disco Version)"
+    - TITLE: "I Want Your Love (12\" Disco Version)"
       DISCNUMBER: 1
       TRACKNUMBER: 7
       ARTIST: "Chic"
@@ -285124,7 +285135,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.99575806
       BITDEPTH: 16
       LENGTH: 489
-    - TITLE: "My Forbidden Lover (12"" Disco Version)"
+    - TITLE: "My Forbidden Lover (12\" Disco Version)"
       DISCNUMBER: 2
       TRACKNUMBER: 4
       ARTIST: "Chic"
@@ -285163,7 +285174,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.99575806
       BITDEPTH: 16
       LENGTH: 320
-    - TITLE: "Backfired (12"" Disco Version)"
+    - TITLE: "Backfired (12\" Disco Version)"
       DISCNUMBER: 2
       TRACKNUMBER: 7
       ARTIST: "Debbie Harry"
@@ -285176,7 +285187,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.99575806
       BITDEPTH: 16
       LENGTH: 379
-    - TITLE: "Soup For One (12"" Disco Version)"
+    - TITLE: "Soup For One (12\" Disco Version)"
       DISCNUMBER: 2
       TRACKNUMBER: 8
       ARTIST: "Chic"
@@ -285189,7 +285200,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.99575806
       BITDEPTH: 16
       LENGTH: 476
-    - TITLE: "High Society (12"" Disco Version)"
+    - TITLE: "High Society (12\" Disco Version)"
       DISCNUMBER: 2
       TRACKNUMBER: 9
       ARTIST: "Norma Jean Wright"
@@ -285202,7 +285213,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.99575806
       BITDEPTH: 16
       LENGTH: 366
-    - TITLE: "Reach Your Peak (12"" Disco Version)"
+    - TITLE: "Reach Your Peak (12\" Disco Version)"
       DISCNUMBER: 2
       TRACKNUMBER: 10
       ARTIST: "Sister Sledge"
@@ -285215,7 +285226,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.99575806
       BITDEPTH: 16
       LENGTH: 324
-    - TITLE: "Your Love Is Good (12"" Disco Version)"
+    - TITLE: "Your Love Is Good (12\" Disco Version)"
       DISCNUMBER: 2
       TRACKNUMBER: 11
       ARTIST: "Sheila & B. Devotion"
@@ -289354,7 +289365,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.98562622
       BITDEPTH: 16
       LENGTH: 465
-    - TITLE: "Life In Tokyo (12"" Version)"
+    - TITLE: "Life In Tokyo (12\" Version)"
       TRACKNUMBER: 3
       ARTIST: "Japan"
       ENCODER: X Lossless Decoder 20230416
@@ -289431,7 +289442,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.98562622
       BITDEPTH: 16
       LENGTH: 445
-    - TITLE: "Living On The Ceiling (12"" Extended Version)"
+    - TITLE: "Living On The Ceiling (12\" Extended Version)"
       TRACKNUMBER: 10
       ARTIST: "Blancmange"
       ENCODER: X Lossless Decoder 20230416
@@ -289453,7 +289464,7 @@
       REPLAYGAIN_ALBUM_PEAK: 0.98562622
       BITDEPTH: 16
       LENGTH: 246
-    - TITLE: "Sensoria (12"" Mix)"
+    - TITLE: "Sensoria (12\" Mix)"
       TRACKNUMBER: 12
       ARTIST: "Cabaret Voltaire"
       ENCODER: X Lossless Decoder 20230416
@@ -302361,14 +302372,14 @@
 
   - ALBUM: "You've Got The Power"
     DATE: 1985
-    DESCRIPTION: "Ripped from vinyl (Swamplands 12"" SWX 8)"
+    DESCRIPTION: "Ripped from vinyl (Swamplands 12\" SWX 8)"
     MEDIA: vinyl
     RELEASETYPE: single
     Tracks:
     - TITLE: "You've Got The Power (Chocolate Thrills mix)"
       TRACKNUMBER: 01
       ARTIST: "Win"
-      COMMENT: "Ripped from vinyl (Swamplands 12"" SWX 8)"
+      COMMENT: "Ripped from vinyl (Swamplands 12\" SWX 8)"
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -6.03 dB
       REPLAYGAIN_TRACK_PEAK: 1.00000000
@@ -302379,7 +302390,7 @@
     - TITLE: "You've Got The Power (7'' version)"
       TRACKNUMBER: 02
       ARTIST: "Win"
-      COMMENT: "Ripped from vinyl (Swamplands 12"" SWX 8)"
+      COMMENT: "Ripped from vinyl (Swamplands 12\" SWX 8)"
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -5.12 dB
       REPLAYGAIN_TRACK_PEAK: 1.00000000
@@ -302390,7 +302401,7 @@
     - TITLE: "In Heaven (Lady In The Radiator Song)"
       TRACKNUMBER: 03
       ARTIST: "Win"
-      COMMENT: "Ripped from vinyl (Swamplands 12"" SWX 8)"
+      COMMENT: "Ripped from vinyl (Swamplands 12\" SWX 8)"
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -3.78 dB
       REPLAYGAIN_TRACK_PEAK: 1.00000000
@@ -304895,7 +304906,7 @@
     - TITLE: "This Way"
       TRACKNUMBER: 16
       ARTIST: "Young Marble Giants"
-      WORK: """Testcard"" EP (1981)"
+      WORK: \""Testcard\" EP (1981)"
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -4.06 dB
       REPLAYGAIN_TRACK_PEAK: 0.91094971
@@ -304906,7 +304917,7 @@
     - TITLE: "Posed by Models"
       TRACKNUMBER: 17
       ARTIST: "Young Marble Giants"
-      WORK: """Testcard"" EP (1981)"
+      WORK: \""Testcard\" EP (1981)"
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -2.95 dB
       REPLAYGAIN_TRACK_PEAK: 0.99951172
@@ -304917,7 +304928,7 @@
     - TITLE: "The Clock"
       TRACKNUMBER: 18
       ARTIST: "Young Marble Giants"
-      WORK: """Testcard"" EP (1981)"
+      WORK: \""Testcard\" EP (1981)"
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -2.43 dB
       REPLAYGAIN_TRACK_PEAK: 0.99942017
@@ -304928,7 +304939,7 @@
     - TITLE: "Clicktalk"
       TRACKNUMBER: 19
       ARTIST: "Young Marble Giants"
-      WORK: """Testcard"" EP (1981)"
+      WORK: \""Testcard\" EP (1981)"
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -1.05 dB
       REPLAYGAIN_TRACK_PEAK: 0.99935913
@@ -304939,7 +304950,7 @@
     - TITLE: "Zebra Trucks"
       TRACKNUMBER: 20
       ARTIST: "Young Marble Giants"
-      WORK: """Testcard"" EP (1981)"
+      WORK: \""Testcard\" EP (1981)"
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -4.86 dB
       REPLAYGAIN_TRACK_PEAK: 0.99951172
@@ -304950,7 +304961,7 @@
     - TITLE: "Sporting Life"
       TRACKNUMBER: 21
       ARTIST: "Young Marble Giants"
-      WORK: """Testcard"" EP (1981)"
+      WORK: \""Testcard\" EP (1981)"
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -0.49 dB
       REPLAYGAIN_TRACK_PEAK: 0.99951172
@@ -304961,7 +304972,7 @@
     - TITLE: "Final Day"
       TRACKNUMBER: 22
       ARTIST: "Young Marble Giants"
-      WORK: """Final Day"" single (1980)"
+      WORK: \""Final Day\" single (1980)"
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -3.37 dB
       REPLAYGAIN_TRACK_PEAK: 0.99951172
@@ -304972,7 +304983,7 @@
     - TITLE: "Radio Silents"
       TRACKNUMBER: 23
       ARTIST: "Young Marble Giants"
-      WORK: """Final Day"" single (1980)"
+      WORK: \""Final Day\" single (1980)"
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -4.66 dB
       REPLAYGAIN_TRACK_PEAK: 0.99942017
@@ -304983,7 +304994,7 @@
     - TITLE: "Cakewalking"
       TRACKNUMBER: 24
       ARTIST: "Young Marble Giants"
-      WORK: """Final Day"" single (1980)"
+      WORK: \""Final Day\" single (1980)"
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -4.86 dB
       REPLAYGAIN_TRACK_PEAK: 0.99954224
@@ -304994,7 +305005,7 @@
     - TITLE: "Ode to Booker T."
       TRACKNUMBER: 25
       ARTIST: "Young Marble Giants"
-      WORK: """Is The War Over?"" V/A compilation (1979)"
+      WORK: \""Is The War Over?\" V/A compilation (1979)"
       REPLAYGAIN_REFERENCE_LOUDNESS: 89.0 dB
       REPLAYGAIN_TRACK_GAIN: -1.70 dB
       REPLAYGAIN_TRACK_PEAK: 0.99948120
